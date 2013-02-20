@@ -1,0 +1,157 @@
+Fri Jun 22 15:11:51 [initandlisten] MongoDB starting : pid=348 port=27017 dbpath=/var/lib/mongodb 32-bit host=blankLocker
+Fri Jun 22 15:11:51 [initandlisten] 
+Fri Jun 22 15:11:51 [initandlisten] ** NOTE: when using MongoDB 32 bit, you are limited to about 2 gigabytes of data
+Fri Jun 22 15:11:51 [initandlisten] **       see http://blog.mongodb.org/post/137788967/32-bit-limitations
+Fri Jun 22 15:11:51 [initandlisten] **       with --journal, the limit is lower
+Fri Jun 22 15:11:51 [initandlisten] 
+Fri Jun 22 15:11:51 [initandlisten] db version v2.0.6, pdfile version 4.5
+Fri Jun 22 15:11:51 [initandlisten] git version: e1c0cbc25863f6356aa4e31375add7bb49fb05bc
+Fri Jun 22 15:11:51 [initandlisten] build info: Linux domU-12-31-39-01-70-B4 2.6.21.7-2.fc8xen #1 SMP Fri Feb 15 12:39:36 EST 2008 i686 BOOST_LIB_VERSION=1_41
+Fri Jun 22 15:11:51 [initandlisten] options: { command: [ "run" ], config: "/etc/mongodb.conf", dbpath: "/var/lib/mongodb", logappend: "true", logpath: "/var/log/mongodb/mongodb.log" }
+Fri Jun 22 15:11:51 [initandlisten] ERROR: listen(): bind() failed errno:13 Permission denied for socket: /tmp/mongodb-27017.sock
+Fri Jun 22 15:11:51 [initandlisten] now exiting
+Fri Jun 22 15:11:51 dbexit: 
+Fri Jun 22 15:11:51 [initandlisten] shutdown: going to close listening sockets...
+Fri Jun 22 15:11:51 [initandlisten] closing listening socket: 5
+Fri Jun 22 15:11:51 [initandlisten] shutdown: going to flush diaglog...
+Fri Jun 22 15:11:51 [initandlisten] shutdown: going to close sockets...
+Fri Jun 22 15:11:51 [initandlisten] shutdown: waiting for fs preallocator...
+Fri Jun 22 15:11:51 [initandlisten] shutdown: closing all files...
+Fri Jun 22 15:11:51 [initandlisten] closeAllFiles() finished
+Fri Jun 22 15:11:51 [initandlisten] shutdown: removing fs lock...
+Fri Jun 22 15:11:51 dbexit: really exiting now
+
+
+***** SERVER RESTARTED *****
+
+
+Fri Jun 22 15:13:44 [initandlisten] MongoDB starting : pid=579 port=27017 dbpath=/var/lib/mongodb 32-bit host=blankLocker
+Fri Jun 22 15:13:44 [initandlisten] 
+Fri Jun 22 15:13:44 [initandlisten] ** NOTE: when using MongoDB 32 bit, you are limited to about 2 gigabytes of data
+Fri Jun 22 15:13:44 [initandlisten] **       see http://blog.mongodb.org/post/137788967/32-bit-limitations
+Fri Jun 22 15:13:44 [initandlisten] **       with --journal, the limit is lower
+Fri Jun 22 15:13:44 [initandlisten] 
+Fri Jun 22 15:13:44 [initandlisten] db version v2.0.6, pdfile version 4.5
+Fri Jun 22 15:13:44 [initandlisten] git version: e1c0cbc25863f6356aa4e31375add7bb49fb05bc
+Fri Jun 22 15:13:44 [initandlisten] build info: Linux domU-12-31-39-01-70-B4 2.6.21.7-2.fc8xen #1 SMP Fri Feb 15 12:39:36 EST 2008 i686 BOOST_LIB_VERSION=1_41
+Fri Jun 22 15:13:44 [initandlisten] options: { command: [ "run" ], config: "/etc/mongodb.conf", dbpath: "/var/lib/mongodb", logappend: "true", logpath: "/var/log/mongodb/mongodb.log" }
+Fri Jun 22 15:13:44 [initandlisten] ERROR: listen(): bind() failed errno:13 Permission denied for socket: /tmp/mongodb-27017.sock
+Fri Jun 22 15:13:44 [initandlisten] now exiting
+Fri Jun 22 15:13:44 dbexit: 
+Fri Jun 22 15:13:44 [initandlisten] shutdown: going to close listening sockets...
+Fri Jun 22 15:13:44 [initandlisten] closing listening socket: 5
+Fri Jun 22 15:13:44 [initandlisten] shutdown: going to flush diaglog...
+Fri Jun 22 15:13:44 [initandlisten] shutdown: going to close sockets...
+Fri Jun 22 15:13:44 [initandlisten] shutdown: waiting for fs preallocator...
+Fri Jun 22 15:13:44 [initandlisten] shutdown: closing all files...
+Fri Jun 22 15:13:44 [initandlisten] closeAllFiles() finished
+Fri Jun 22 15:13:44 [initandlisten] shutdown: removing fs lock...
+Fri Jun 22 15:13:44 dbexit: really exiting now
+
+
+***** SERVER RESTARTED *****
+
+
+Fri Jun 22 15:14:57 [initandlisten] MongoDB starting : pid=2809 port=27017 dbpath=/var/lib/mongodb 32-bit host=blankLocker
+Fri Jun 22 15:14:57 [initandlisten] 
+Fri Jun 22 15:14:57 [initandlisten] ** NOTE: when using MongoDB 32 bit, you are limited to about 2 gigabytes of data
+Fri Jun 22 15:14:57 [initandlisten] **       see http://blog.mongodb.org/post/137788967/32-bit-limitations
+Fri Jun 22 15:14:57 [initandlisten] **       with --journal, the limit is lower
+Fri Jun 22 15:14:57 [initandlisten] 
+Fri Jun 22 15:14:57 [initandlisten] db version v2.0.6, pdfile version 4.5
+Fri Jun 22 15:14:57 [initandlisten] git version: e1c0cbc25863f6356aa4e31375add7bb49fb05bc
+Fri Jun 22 15:14:57 [initandlisten] build info: Linux domU-12-31-39-01-70-B4 2.6.21.7-2.fc8xen #1 SMP Fri Feb 15 12:39:36 EST 2008 i686 BOOST_LIB_VERSION=1_41
+Fri Jun 22 15:14:57 [initandlisten] options: { command: [ "run" ], config: "/etc/mongodb.conf", dbpath: "/var/lib/mongodb", logappend: "true", logpath: "/var/log/mongodb/mongodb.log" }
+Fri Jun 22 15:14:57 [initandlisten] ERROR: listen(): bind() failed errno:13 Permission denied for socket: /tmp/mongodb-27017.sock
+Fri Jun 22 15:14:57 [initandlisten] now exiting
+Fri Jun 22 15:14:57 dbexit: 
+Fri Jun 22 15:14:57 [initandlisten] shutdown: going to close listening sockets...
+Fri Jun 22 15:14:57 [initandlisten] closing listening socket: 5
+Fri Jun 22 15:14:57 [initandlisten] shutdown: going to flush diaglog...
+Fri Jun 22 15:14:57 [initandlisten] shutdown: going to close sockets...
+Fri Jun 22 15:14:57 [initandlisten] shutdown: waiting for fs preallocator...
+Fri Jun 22 15:14:57 [initandlisten] shutdown: closing all files...
+Fri Jun 22 15:14:57 [initandlisten] closeAllFiles() finished
+Fri Jun 22 15:14:57 [initandlisten] shutdown: removing fs lock...
+Fri Jun 22 15:14:57 dbexit: really exiting now
+
+
+***** SERVER RESTARTED *****
+
+
+Fri Jun 22 15:15:46 [initandlisten] MongoDB starting : pid=2905 port=27017 dbpath=/var/lib/mongodb 32-bit host=blankLocker
+Fri Jun 22 15:15:46 [initandlisten] 
+Fri Jun 22 15:15:46 [initandlisten] ** NOTE: when using MongoDB 32 bit, you are limited to about 2 gigabytes of data
+Fri Jun 22 15:15:46 [initandlisten] **       see http://blog.mongodb.org/post/137788967/32-bit-limitations
+Fri Jun 22 15:15:46 [initandlisten] **       with --journal, the limit is lower
+Fri Jun 22 15:15:46 [initandlisten] 
+Fri Jun 22 15:15:46 [initandlisten] db version v2.0.6, pdfile version 4.5
+Fri Jun 22 15:15:46 [initandlisten] git version: e1c0cbc25863f6356aa4e31375add7bb49fb05bc
+Fri Jun 22 15:15:46 [initandlisten] build info: Linux domU-12-31-39-01-70-B4 2.6.21.7-2.fc8xen #1 SMP Fri Feb 15 12:39:36 EST 2008 i686 BOOST_LIB_VERSION=1_41
+Fri Jun 22 15:15:46 [initandlisten] options: { command: [ "run" ], config: "/etc/mongodb.conf", dbpath: "/var/lib/mongodb", logappend: "true", logpath: "/var/log/mongodb/mongodb.log" }
+Fri Jun 22 15:15:46 [initandlisten] ERROR: listen(): bind() failed errno:13 Permission denied for socket: /tmp/mongodb-27017.sock
+Fri Jun 22 15:15:46 [initandlisten] now exiting
+Fri Jun 22 15:15:46 dbexit: 
+Fri Jun 22 15:15:46 [initandlisten] shutdown: going to close listening sockets...
+Fri Jun 22 15:15:46 [initandlisten] closing listening socket: 5
+Fri Jun 22 15:15:46 [initandlisten] shutdown: going to flush diaglog...
+Fri Jun 22 15:15:46 [initandlisten] shutdown: going to close sockets...
+Fri Jun 22 15:15:46 [initandlisten] shutdown: waiting for fs preallocator...
+Fri Jun 22 15:15:46 [initandlisten] shutdown: closing all files...
+Fri Jun 22 15:15:46 [initandlisten] closeAllFiles() finished
+Fri Jun 22 15:15:46 [initandlisten] shutdown: removing fs lock...
+Fri Jun 22 15:15:46 dbexit: really exiting now
+
+
+***** SERVER RESTARTED *****
+
+
+Fri Jun 22 15:16:08 [initandlisten] MongoDB starting : pid=2927 port=27017 dbpath=/var/lib/mongodb 32-bit host=blankLocker
+Fri Jun 22 15:16:08 [initandlisten] 
+Fri Jun 22 15:16:08 [initandlisten] ** NOTE: when using MongoDB 32 bit, you are limited to about 2 gigabytes of data
+Fri Jun 22 15:16:08 [initandlisten] **       see http://blog.mongodb.org/post/137788967/32-bit-limitations
+Fri Jun 22 15:16:08 [initandlisten] **       with --journal, the limit is lower
+Fri Jun 22 15:16:08 [initandlisten] 
+Fri Jun 22 15:16:08 [initandlisten] db version v2.0.6, pdfile version 4.5
+Fri Jun 22 15:16:08 [initandlisten] git version: e1c0cbc25863f6356aa4e31375add7bb49fb05bc
+Fri Jun 22 15:16:08 [initandlisten] build info: Linux domU-12-31-39-01-70-B4 2.6.21.7-2.fc8xen #1 SMP Fri Feb 15 12:39:36 EST 2008 i686 BOOST_LIB_VERSION=1_41
+Fri Jun 22 15:16:08 [initandlisten] options: { command: [ "run" ], config: "/etc/mongodb.conf", dbpath: "/var/lib/mongodb", logappend: "true", logpath: "/var/log/mongodb/mongodb.log" }
+Fri Jun 22 15:16:08 [initandlisten] ERROR: listen(): bind() failed errno:13 Permission denied for socket: /tmp/mongodb-27017.sock
+Fri Jun 22 15:16:08 [initandlisten] now exiting
+Fri Jun 22 15:16:08 dbexit: 
+Fri Jun 22 15:16:08 [initandlisten] shutdown: going to close listening sockets...
+Fri Jun 22 15:16:08 [initandlisten] closing listening socket: 5
+Fri Jun 22 15:16:08 [initandlisten] shutdown: going to flush diaglog...
+Fri Jun 22 15:16:08 [initandlisten] shutdown: going to close sockets...
+Fri Jun 22 15:16:08 [initandlisten] shutdown: waiting for fs preallocator...
+Fri Jun 22 15:16:08 [initandlisten] shutdown: closing all files...
+Fri Jun 22 15:16:08 [initandlisten] closeAllFiles() finished
+Fri Jun 22 15:16:08 [initandlisten] shutdown: removing fs lock...
+Fri Jun 22 15:16:08 dbexit: really exiting now
+
+
+***** SERVER RESTARTED *****
+
+
+Fri Jun 22 15:19:08 [initandlisten] MongoDB starting : pid=3008 port=27017 dbpath=/var/lib/mongodb 32-bit host=blankLocker
+Fri Jun 22 15:19:08 [initandlisten] 
+Fri Jun 22 15:19:08 [initandlisten] ** NOTE: when using MongoDB 32 bit, you are limited to about 2 gigabytes of data
+Fri Jun 22 15:19:08 [initandlisten] **       see http://blog.mongodb.org/post/137788967/32-bit-limitations
+Fri Jun 22 15:19:08 [initandlisten] **       with --journal, the limit is lower
+Fri Jun 22 15:19:08 [initandlisten] 
+Fri Jun 22 15:19:08 [initandlisten] db version v2.0.6, pdfile version 4.5
+Fri Jun 22 15:19:08 [initandlisten] git version: e1c0cbc25863f6356aa4e31375add7bb49fb05bc
+Fri Jun 22 15:19:08 [initandlisten] build info: Linux domU-12-31-39-01-70-B4 2.6.21.7-2.fc8xen #1 SMP Fri Feb 15 12:39:36 EST 2008 i686 BOOST_LIB_VERSION=1_41
+Fri Jun 22 15:19:08 [initandlisten] options: { command: [ "run" ], config: "/etc/mongodb.conf", dbpath: "/var/lib/mongodb", logappend: "true", logpath: "/var/log/mongodb/mongodb.log" }
+Fri Jun 22 15:19:08 [initandlisten] ERROR: listen(): bind() failed errno:13 Permission denied for socket: /tmp/mongodb-27017.sock
+Fri Jun 22 15:19:08 [initandlisten] now exiting
+Fri Jun 22 15:19:08 dbexit: 
+Fri Jun 22 15:19:08 [initandlisten] shutdown: going to close listening sockets...
+Fri Jun 22 15:19:08 [initandlisten] closing listening socket: 5
+Fri Jun 22 15:19:08 [initandlisten] shutdown: going to flush diaglog...
+Fri Jun 22 15:19:08 [initandlisten] shutdown: going to close sockets...
+Fri Jun 22 15:19:08 [initandlisten] shutdown: waiting for fs preallocator...
+Fri Jun 22 15:19:08 [initandlisten] shutdown: closing all files...
+Fri Jun 22 15:19:08 [initandlisten] closeAllFiles() finished
+Fri Jun 22 15:19:08 [initandlisten] shutdown: removing fs lock...
+Fri Jun 22 15:19:08 dbexit: really exiting now

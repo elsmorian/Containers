@@ -1,0 +1,12 @@
+1f19b17b53dc8c9208f5805cca313271  usr/bin/g++-4.4
+b85e4884017f5dfbbeaa3c38fe5f9f26  usr/lib/gcc/i486-linux-gnu/4.4/cc1plus
+d34e924e0b649f39a4c876c1a4ec4e1f  usr/share/doc/gcc-4.4-base/C++/README.C++
+50e6979b96b93dd320edbc49622f5bef  usr/share/doc/gcc-4.4-base/C++/changelog.gz
+8ebc95711c8ae380f4128479d0dfa708  usr/share/doc/gcc-4.4-base/test-summaries/g++.sum.gz
+ee8fa5dcab6c1c9613be179c3501bc68  usr/share/doc/gcc-4.4-base/test-summaries/gcc.sum.gz
+8a68227888d6e99eb98320b0290b6910  usr/share/doc/gcc-4.4-base/test-summaries/gfortran.sum.gz
+2953fb6d8309edca0c36fdd4184c1e3f  usr/share/doc/gcc-4.4-base/test-summaries/libgomp.sum.gz
+573d0ba44c995977192096e123684426  usr/share/doc/gcc-4.4-base/test-summaries/libmudflap.sum.gz
+fcbffde76d5f6badfa9fdec59ee6c107  usr/share/doc/gcc-4.4-base/test-summaries/libstdc++.sum.gz
+5dd75cc06ace413665210eca3360affc  usr/share/doc/gcc-4.4-base/test-summaries/obj-c++.sum.gz
+9fe41022ecac362e09ac582e6a4b5404  usr/share/doc/gcc-4.4-base/test-summaries/objc.sum.gz

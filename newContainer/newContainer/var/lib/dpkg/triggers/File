@@ -1,0 +1,6 @@
+/usr/share/fonts fontconfig
+/usr/share/ghostscript/fonts fontconfig
+/usr/share/texmf/fonts fontconfig
+/usr/share/icons/hicolor hicolor-icon-theme
+/usr/lib/gio/modules libglib2.0-0
+/usr/share/mime/packages shared-mime-info

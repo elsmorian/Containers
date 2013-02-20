@@ -1,0 +1,49 @@
+
+Start-Date: 2012-06-22  14:21:56
+Commandline: apt-get install iputils-ping
+Install: iputils-ping:i386 (20100418-3)
+End-Date: 2012-06-22  14:21:56
+
+Start-Date: 2012-06-22  15:11:42
+Commandline: apt-get install mongodb-10gen
+Install: mongodb-10gen:i386 (2.0.6)
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2012-06-22  15:11:53
+
+Start-Date: 2012-06-22  15:13:41
+Commandline: apt-get install git-core
+Install: libpopt0:i386 (1.16-1, automatic), libidn11:i386 (1.15-2, automatic), libsasl2-modules:i386 (2.1.23.dfsg1-7, automatic), libgnutls26:i386 (2.8.6-1+squeeze2, automatic), liberror-perl:i386 (0.17-1, automatic), libcurl3-gnutls:i386 (7.21.0-2.1+squeeze2, automatic), libtasn1-3:i386 (2.7-1+squeeze+1, automatic), libexpat1:i386 (2.0.1-7, automatic), git:i386 (1.7.2.5-3, automatic), ca-certificates:i386 (20090814+nmu3squeeze1, automatic), libgcrypt11:i386 (1.4.5-2, automatic), rsync:i386 (3.0.7-2, automatic), libgpg-error0:i386 (1.6-1, automatic), libldap-2.4-2:i386 (2.4.23-7.2, automatic), libsasl2-2:i386 (2.1.23.dfsg1-7, automatic), git-core:i386 (1.7.2.5-3), openssl:i386 (0.9.8o-4squeeze12, automatic), patch:i386 (2.6-2, automatic), less:i386 (436-1, automatic)
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2012-06-22  15:13:49
+
+Start-Date: 2012-06-22  15:14:35
+Commandline: apt-get install build-essential
+Install: bzip2:i386 (1.0.5-6+squeeze1, automatic), libalgorithm-diff-perl:i386 (1.19.02-2, automatic), libmpfr4:i386 (3.0.0-2, automatic), fakeroot:i386 (1.14.4-1, automatic), g++-4.4:i386 (4.4.5-8, automatic), libalgorithm-diff-xs-perl:i386 (0.04-1, automatic), manpages-dev:i386 (3.27-1, automatic), libc-dev-bin:i386 (2.11.3-3, automatic), libgomp1:i386 (4.4.5-8, automatic), libstdc++6-4.4-dev:i386 (4.4.5-8, automatic), g++:i386 (4.4.5-1, automatic), linux-libc-dev:i386 (2.6.32-45, automatic), gcc-4.4:i386 (4.4.5-8, automatic), libdpkg-perl:i386 (1.15.8.12, automatic), cpp:i386 (4.4.5-1, automatic), libgmp3c2:i386 (4.3.2+dfsg-1, automatic), gcc:i386 (4.4.5-1, automatic), libalgorithm-merge-perl:i386 (0.08-2, automatic), manpages:i386 (3.27-1, automatic), libtimedate-perl:i386 (1.2000-1, automatic), dpkg-dev:i386 (1.15.8.12, automatic), libc6-dev:i386 (2.11.3-3, automatic), cpp-4.4:i386 (4.4.5-8, automatic), binutils:i386 (2.20.1-16, automatic), make:i386 (3.81-8, automatic), build-essential:i386 (11.5)
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2012-06-22  15:14:59
+
+Start-Date: 2012-06-22  15:15:44
+Commandline: apt-get install openssl libssl-dev
+Install: libssl-dev:i386 (0.9.8o-4squeeze12), zlib1g-dev:i386 (1.2.3.4.dfsg-3, automatic)
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2012-06-22  15:15:47
+
+Start-Date: 2012-06-22  15:19:07
+Commandline: apt-get install apache2-utils
+Install: apache2-utils:i386 (2.2.16-6+squeeze7), libapr1:i386 (1.4.2-6+squeeze4, automatic), libaprutil1:i386 (1.3.9+dfsg-5, automatic)
+End-Date: 2012-06-22  15:19:10
+
+Start-Date: 2012-06-22  15:20:10
+Commandline: apt-get install imagemagick
+Install: libgtk2.0-common:i386 (2.20.1-2, automatic), libatk1.0-0:i386 (1.30.0-1, automatic), libfont-freetype-perl:i386 (0.03-1, automatic), ttf-dejavu-core:i386 (2.31-1, automatic), libxfixes3:i386 (4.0.5-1, automatic), shared-mime-info:i386 (0.71-4, automatic), libxcb-render-util0:i386 (0.3.6-1, automatic), liblcms1:i386 (1.18.dfsg-1.2+b3, automatic), libdjvulibre21:i386 (3.5.23-3, automatic), libwmf0.2-7:i386 (0.2.8.4-6.1+b1, automatic), libilmbase6:i386 (1.0.1-3, automatic), libpixman-1-0:i386 (0.16.4-1, automatic), libx11-data:i386 (1.3.3-4, automatic), libavahi-common-data:i386 (0.6.27-2+squeeze1, automatic), libdbus-1-3:i386 (1.2.24-4+squeeze1, automatic), libcdt4:i386 (2.26.3-5, automatic), libpcre3:i386 (8.02-1.1, automatic), libcairo2:i386 (1.8.10-6, automatic), libfontconfig1:i386 (2.8.0-2.1, automatic), fontconfig-config:i386 (2.8.0-2.1, automatic), libexiv2-9:i386 (0.20-2, automatic), xml-core:i386 (0.13, automatic), libpango1.0-common:i386 (1.28.3-1+squeeze2, automatic), libxcb-render0:i386 (1.6-1, automatic), libgd2-noxpm:i386 (2.0.36~rc1~dfsg-5, automatic), libpaper-utils:i386 (1.1.24, automatic), hicolor-icon-theme:i386 (0.12-1, automatic), liblqr-1-0:i386 (0.4.1-1, automatic), libdatrie1:i386 (0.2.4-1, automatic), fontconfig:i386 (2.8.0-2.1, automatic), libxfont1:i386 (1.4.1-3, automatic), dbus:i386 (1.2.24-4+squeeze1, automatic), libxcb1:i386 (1.6-1, automatic), ufraw-batch:i386 (0.16-3+b1, automatic), libxau6:i386 (1.0.6-1, automatic), libpango1.0-0:i386 (1.28.3-1+squeeze2, automatic), libcups2:i386 (1.4.4-7+squeeze1, automatic), libgtk2.0-bin:i386 (2.20.1-2, automatic), libxft2:i386 (2.1.14-2, automatic), libgsf-1-common:i386 (1.14.18-1, automatic), libxcomposite1:i386 (0.4.2-1, automatic), libcroco3:i386 (0.6.2-1, automatic), libjbig2dec0:i386 (0.11-1, automatic), libopenexr6:i386 (1.6.1-4.1, automatic), libice6:i386 (1.0.6-2, automatic), libxdmcp6:i386 (1.0.3-2, automatic), libthai0:i386 (0.1.14-2, automatic), libxml2:i386 (2.7.8.dfsg-2+squeeze3, automatic), file:i386 (5.04-5+squeeze2, automatic), libglib2.0-data:i386 (2.24.2-1, automatic), libatk1.0-data:i386 (1.30.0-1, automatic), netpbm:i386 (10.0-12.2+b1, automatic), libxrender1:i386 (0.9.6-1, automatic), libmagickcore3:i386 (6.6.0.4-3+squeeze3, automatic), sgml-base:i386 (1.26+nmu1, automatic), ucf:i386 (3.0025+nmu1, automatic), libgvc5:i386 (2.26.3-5, automatic), libgs8:i386 (8.71~dfsg2-9, automatic), libtiff4:i386 (3.9.4-5+squeeze4, automatic), libfontenc1:i386 (1.0.5-2, automatic), libjasper1:i386 (1.900.1-7+squeeze1, automatic), libpng12-0:i386 (1.2.44-1+squeeze4, automatic), libjpeg62:i386 (6b1-1, automatic), xfonts-utils:i386 (7.5+2, automatic), libmagickwand3:i386 (6.6.0.4-3+squeeze3, automatic), libxdot4:i386 (2.26.3-5, automatic), libfreetype6:i386 (2.4.2-2.1+squeeze4, automatic), libthai-data:i386 (0.1.14-2, automatic), libavahi-client3:i386 (0.6.27-2+squeeze1, automatic), libmagickcore3-extra:i386 (6.6.0.4-3+squeeze3, automatic), libglib2.0-0:i386 (2.24.2-1, automatic), libcupsimage2:i386 (1.4.4-7+squeeze1, automatic), ghostscript:i386 (8.71~dfsg2-9, automatic), librsvg2-2:i386 (2.26.3-1, automatic), x11-common:i386 (7.5+8+squeeze1, automatic), libnetpbm10:i386 (10.0-12.2+b1, automatic), libx11-6:i386 (1.3.3-4, automatic), imagemagick:i386 (6.6.0.4-3+squeeze3), exiv2:i386 (0.20-2, automatic), libsm6:i386 (1.1.1-1, automatic), libgraph4:i386 (2.26.3-5, automatic), libxdamage1:i386 (1.1.3-1, automatic), libxi6:i386 (1.3-7, automatic), libxcursor1:i386 (1.1.10-2, automatic), xfonts-encodings:i386 (1.0.3-1, automatic), libavahi-common3:i386 (0.6.27-2+squeeze1, automatic), libdjvulibre-text:i386 (3.5.23-3, automatic), libxt6:i386 (1.0.7-1, automatic), libxinerama1:i386 (1.1-3, automatic), libxext6:i386 (1.1.2-1, automatic), defoma:i386 (0.11.11, automatic), libxrandr2:i386 (1.3.0-3, automatic), libpathplan4:i386 (2.26.3-5, automatic), x-ttcidfont-conf:i386 (32, automatic), libgtk2.0-0:i386 (2.20.1-2, automatic), libgsf-1-114:i386 (1.14.18-1, automatic), gsfonts:i386 (8.11+urwcyr1.0.7~pre44-4.2, automatic), libpaper1:i386 (1.1.24, automatic), libltdl7:i386 (2.2.6b-2, automatic), libmagic1:i386 (5.04-5+squeeze2, automatic)
+End-Date: 2012-06-22  15:20:44
+
+Start-Date: 2012-06-22  15:25:10
+Commandline: apt-get install python
+Install: python2.6-minimal:i386 (2.6.6-8+b1, automatic), mime-support:i386 (3.48-1, automatic), libsqlite3-0:i386 (3.7.3-1, automatic), python2.6:i386 (2.6.6-8+b1, automatic), python-minimal:i386 (2.6.6-3+squeeze7, automatic), python:i386 (2.6.6-3+squeeze7)
+End-Date: 2012-06-22  15:25:16
+
+Start-Date: 2012-06-26  17:22:47
+Commandline: apt-get install python-pip
+Install: python-support:i386 (1.0.10, automatic), python-pip:i386 (0.7.2-1), python-setuptools:i386 (0.6.14-4, automatic), python-pkg-resources:i386 (0.6.14-4, automatic)
+End-Date: 2012-06-26  17:22:50

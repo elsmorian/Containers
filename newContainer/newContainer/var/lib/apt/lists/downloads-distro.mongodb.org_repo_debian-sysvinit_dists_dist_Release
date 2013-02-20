@@ -1,0 +1,30 @@
+
+Origin: 10gen
+Label: 10gen
+Suite: 10gen
+Codename: dist
+Version: dist
+Architectures: i386 amd64
+Components: 10gen
+Description: 10gen packages
+Date: Tue, 05 Jun 2012 18:27:19 UTC
+MD5Sum:
+ 2432fb8f37342f87f43c4288eb4287ed             3928 10gen/binary-amd64/Packages
+ 73e1235123019eb1c9b35bfc896f3be4             1085 10gen/binary-amd64/Packages.gz
+ 8ec23d7fedda7b40611c5e83026571e2             3919 10gen/binary-i386/Packages
+ 749755a7c84755da75949bb8b6f9e531             1082 10gen/binary-i386/Packages.gz
+SHA1:
+ 61963fac22ea543e2aaa9377c5cab0bceecb571c             3928 10gen/binary-amd64/Packages
+ 56ca21dee7eff6acdbff12750c68efccbad0a5ed             1085 10gen/binary-amd64/Packages.gz
+ 9c513219fc51da98328abda20af097dea524168f             3919 10gen/binary-i386/Packages
+ 50d2632096a911975596d25776a8f3993cf687fc             1082 10gen/binary-i386/Packages.gz
+SHA256:
+ ccb82053843b9d3683fe758d0fe3cd896764958ca749c117af2e1f1fefff1dd0             3928 10gen/binary-amd64/Packages
+ aa49f06385bb1b87fa273cedffecf74d389987b60241e31fd9ea9c606d53deb7             1085 10gen/binary-amd64/Packages.gz
+ a8ddd52377ed154bd0a661edbdf1a2f52bf1ef42e39e43cf403d57322ef2b2c8             3919 10gen/binary-i386/Packages
+ c0af1c0c4fde0b88c49aefbf0d1c1d0689f1f9bfb2aa7a535749b066ff9706dd             1082 10gen/binary-i386/Packages.gz
+SHA512:
+ e586373e0ad7ffdbfd6ed275b4174029070614f213f57baf238df3e2148d722fb57edc6053732af76c5ddb141cf8952a1ee5a028bbd66e41070b4892b36636f4                             3928 10gen/binary-amd64/Packages
+ 57411290ada889bcdb096fef3de5c8d407605ebad6cac7d6bab09d5d8f6dfd96454561b233360b7387b23c82053e5c89f218e8b737e28eeebbda416da78b2a43                             1085 10gen/binary-amd64/Packages.gz
+ 6411b4b71a0a895b5a13fc609cb1a0df3377c0a884e193de143b9c7b6c35b2f40f8cf2d9f13876214dcd23caed6d8bf13e66c4696c2f9bfbabebadb1ad1aeb63                             3919 10gen/binary-i386/Packages
+ b4b2b16e5992e2d89d3aaf1c7b211177f1944caa7f08f39694a8bb20617f9cff98e79e0872f6a456bde94a49eb1120271b18a23c6dcb0290668cb831e57f11b4                             1082 10gen/binary-i386/Packages.gz

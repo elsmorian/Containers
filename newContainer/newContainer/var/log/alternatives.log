@@ -1,0 +1,42 @@
+2012-06-11 14:44:44 update-alternatives: run with --quiet --install /usr/bin/awk awk /usr/bin/mawk 5 --slave /usr/share/man/man1/awk.1.gz awk.1.gz /usr/share/man/man1/mawk.1.gz --slave /usr/bin/nawk nawk /usr/bin/mawk --slave /usr/share/man/man1/nawk.1.gz nawk.1.gz /usr/share/man/man1/mawk.1.gz
+2012-06-11 14:44:44 update-alternatives: link group awk updated to point to /usr/bin/mawk
+2012-06-11 14:45:01 update-alternatives: run with --install /usr/sbin/rmt rmt /usr/sbin/rmt-tar 50 --slave /usr/share/man/man8/rmt.8.gz rmt.8.gz /usr/share/man/man8/rmt-tar.8.gz
+2012-06-11 14:45:01 update-alternatives: link group rmt updated to point to /usr/sbin/rmt-tar
+2012-06-11 14:45:01 update-alternatives: run with --quiet --install /usr/bin/awk awk /usr/bin/mawk 5 --slave /usr/share/man/man1/awk.1.gz awk.1.gz /usr/share/man/man1/mawk.1.gz --slave /usr/bin/nawk nawk /usr/bin/mawk --slave /usr/share/man/man1/nawk.1.gz nawk.1.gz /usr/share/man/man1/mawk.1.gz
+2012-06-11 14:45:02 update-alternatives: run with --install /usr/share/man/man7/builtins.7.gz builtins.7.gz /usr/share/man/man7/bash-builtins.7.gz 10
+2012-06-11 14:45:02 update-alternatives: link group builtins.7.gz updated to point to /usr/share/man/man7/bash-builtins.7.gz
+2012-06-11 14:45:05 update-alternatives: run with --install /usr/bin/pager pager /bin/more 50 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/more.1.gz
+2012-06-11 14:45:05 update-alternatives: link group pager updated to point to /bin/more
+2012-06-11 14:45:05 update-alternatives: run with --install /usr/bin/pager pager /usr/bin/pg 10 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/pg.1.gz
+2012-06-11 14:45:21 update-alternatives: run with --install /usr/bin/editor editor /bin/nano 40 --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/nano.1.gz
+2012-06-11 14:45:21 update-alternatives: link group editor updated to point to /bin/nano
+2012-06-11 14:45:21 update-alternatives: run with --install /usr/bin/pico pico /bin/nano 10 --slave /usr/share/man/man1/pico.1.gz pico.1.gz /usr/share/man/man1/nano.1.gz
+2012-06-11 14:45:21 update-alternatives: link group pico updated to point to /bin/nano
+2012-06-11 14:45:21 update-alternatives: run with --install /usr/bin/w w /usr/bin/w.procps 50 --slave /usr/share/man/man1/w.1.gz w.1.gz /usr/share/man/man1/w.procps.1.gz
+2012-06-11 14:45:21 update-alternatives: link group w updated to point to /usr/bin/w.procps
+2012-06-11 14:45:22 update-alternatives: run with --quiet --install /usr/bin/rsh rsh /usr/bin/ssh 20 --slave /usr/share/man/man1/rsh.1.gz rsh.1.gz /usr/share/man/man1/ssh.1.gz
+2012-06-11 14:45:22 update-alternatives: link group rsh updated to point to /usr/bin/ssh
+2012-06-11 14:45:22 update-alternatives: run with --quiet --install /usr/bin/rlogin rlogin /usr/bin/slogin 20 --slave /usr/share/man/man1/rlogin.1.gz rlogin.1.gz /usr/share/man/man1/slogin.1.gz
+2012-06-11 14:45:22 update-alternatives: link group rlogin updated to point to /usr/bin/slogin
+2012-06-11 14:45:22 update-alternatives: run with --quiet --install /usr/bin/rcp rcp /usr/bin/scp 20 --slave /usr/share/man/man1/rcp.1.gz rcp.1.gz /usr/share/man/man1/scp.1.gz
+2012-06-11 14:45:22 update-alternatives: link group rcp updated to point to /usr/bin/scp
+2012-06-11 14:45:23 update-alternatives: run with --install /usr/bin/rename rename /usr/bin/prename 60 --slave /usr/share/man/man1/rename.1.gz rename.1.gz /usr/share/man/man1/prename.1.gz
+2012-06-11 14:45:23 update-alternatives: link group rename updated to point to /usr/bin/prename
+2012-06-22 15:13:45 update-alternatives: run with --quiet --install /usr/bin/pager pager /bin/less 77 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/less.1.gz
+2012-06-22 15:13:45 update-alternatives: link group pager updated to point to /bin/less
+2012-06-22 15:13:45 update-alternatives: run with --quiet --install /usr/bin/pager pager /bin/less 77 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/less.1.gz
+2012-06-22 15:14:58 update-alternatives: run with --quiet --install /lib/cpp cpp /usr/bin/cpp 10
+2012-06-22 15:14:58 update-alternatives: link group cpp updated to point to /usr/bin/cpp
+2012-06-22 15:14:58 update-alternatives: run with --quiet --install /usr/bin/cc cc /usr/bin/gcc 20
+2012-06-22 15:14:58 update-alternatives: link group cc updated to point to /usr/bin/gcc
+2012-06-22 15:14:58 update-alternatives: run with --quiet --install /usr/bin/c89 c89 /usr/bin/c89-gcc 20 --slave /usr/share/man/man1/c89.1.gz c89.1.gz /usr/share/man/man1/c89-gcc.1.gz
+2012-06-22 15:14:58 update-alternatives: link group c89 updated to point to /usr/bin/c89-gcc
+2012-06-22 15:14:58 update-alternatives: run with --quiet --install /usr/bin/c99 c99 /usr/bin/c99-gcc 20 --slave /usr/share/man/man1/c99.1.gz c99.1.gz /usr/share/man/man1/c99-gcc.1.gz
+2012-06-22 15:14:58 update-alternatives: link group c99 updated to point to /usr/bin/c99-gcc
+2012-06-22 15:14:58 update-alternatives: run with --install /usr/bin/fakeroot fakeroot /usr/bin/fakeroot-sysv 50 --slave /usr/share/man/man1/fakeroot.1.gz fakeroot.1.gz /usr/share/man/man1/fakeroot-sysv.1.gz --slave /usr/share/man/man1/faked.1.gz faked.1.gz /usr/share/man/man1/faked-sysv.1.gz --slave /usr/share/man/es/man1/fakeroot.1.gz fakeroot.es.1.gz /usr/share/man/es/man1/fakeroot-sysv.1.gz --slave /usr/share/man/es/man1/faked.1.gz faked.es.1.gz /usr/share/man/es/man1/faked-sysv.1.gz --slave /usr/share/man/fr/man1/fakeroot.1.gz fakeroot.fr.1.gz /usr/share/man/fr/man1/fakeroot-sysv.1.gz --slave /usr/share/man/fr/man1/faked.1.gz faked.fr.1.gz /usr/share/man/fr/man1/faked-sysv.1.gz --slave /usr/share/man/sv/man1/fakeroot.1.gz fakeroot.sv.1.gz /usr/share/man/sv/man1/fakeroot-sysv.1.gz --slave /usr/share/man/sv/man1/faked.1.gz faked.sv.1.gz /usr/share/man/sv/man1/faked-sysv.1.gz
+2012-06-22 15:14:58 update-alternatives: link group fakeroot updated to point to /usr/bin/fakeroot-sysv
+2012-06-22 15:14:58 update-alternatives: run with --install /usr/bin/fakeroot fakeroot /usr/bin/fakeroot-tcp 30 --slave /usr/share/man/man1/fakeroot.1.gz fakeroot.1.gz /usr/share/man/man1/fakeroot-tcp.1.gz --slave /usr/share/man/man1/faked.1.gz faked.1.gz /usr/share/man/man1/faked-tcp.1.gz --slave /usr/share/man/es/man1/fakeroot.1.gz fakeroot.es.1.gz /usr/share/man/es/man1/fakeroot-tcp.1.gz --slave /usr/share/man/es/man1/faked.1.gz faked.es.1.gz /usr/share/man/es/man1/faked-tcp.1.gz --slave /usr/share/man/fr/man1/fakeroot.1.gz fakeroot.fr.1.gz /usr/share/man/fr/man1/fakeroot-tcp.1.gz --slave /usr/share/man/fr/man1/faked.1.gz faked.fr.1.gz /usr/share/man/fr/man1/faked-tcp.1.gz --slave /usr/share/man/sv/man1/fakeroot.1.gz fakeroot.sv.1.gz /usr/share/man/sv/man1/fakeroot-tcp.1.gz --slave /usr/share/man/sv/man1/faked.1.gz faked.sv.1.gz /usr/share/man/sv/man1/faked-tcp.1.gz
+2012-06-22 15:14:58 update-alternatives: run with --install /usr/bin/c++ c++ /usr/bin/g++ 20
+2012-06-22 15:14:58 update-alternatives: link group c++ updated to point to /usr/bin/g++
+2012-06-22 15:25:13 update-alternatives: run with --install /usr/bin/view view /usr/bin/see 1 --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/see.1.gz
+2012-06-22 15:25:13 update-alternatives: link group view updated to point to /usr/bin/see

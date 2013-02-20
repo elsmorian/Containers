@@ -1,0 +1,25 @@
+------------------------------------------------------------
+/usr/bin/pip run on Tue Jun 26 17:29:43 2012
+Downloading/unpacking oauth2client.client
+  Getting page http://pypi.python.org/simple/oauth2client.client
+  Could not fetch URL http://pypi.python.org/simple/oauth2client.client: HTTP Error 404: Not Found (oauth2client.client does not have any releases)
+  Will skip URL http://pypi.python.org/simple/oauth2client.client when looking for download links for oauth2client.client
+  Getting page http://pypi.python.org/simple/
+  URLs to search for versions for oauth2client.client:
+  * http://pypi.python.org/simple/oauth2client.client/
+  Getting page http://pypi.python.org/simple/oauth2client.client/
+  Could not fetch URL http://pypi.python.org/simple/oauth2client.client/: HTTP Error 404: Not Found (oauth2client.client does not have any releases)
+  Will skip URL http://pypi.python.org/simple/oauth2client.client/ when looking for download links for oauth2client.client
+  Could not find any downloads that satisfy the requirement oauth2client.client
+No distributions at all found for oauth2client.client
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/pymodules/python2.6/pip/basecommand.py", line 120, in main
+    self.run(options, args)
+  File "/usr/lib/pymodules/python2.6/pip/commands/install.py", line 161, in run
+    requirement_set.prepare_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/usr/lib/pymodules/python2.6/pip/req.py", line 872, in prepare_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "/usr/lib/pymodules/python2.6/pip/index.py", line 116, in find_requirement
+    raise DistributionNotFound('No distributions at all found for %s' % req)
+DistributionNotFound: No distributions at all found for oauth2client.client

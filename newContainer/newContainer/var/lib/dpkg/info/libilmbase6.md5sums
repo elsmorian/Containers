@@ -1,0 +1,11 @@
+5ac297a48dde27849b57aedce543f8c3  usr/lib/libImath.so.6.0.0
+be3f013cc0b1fba6444c4bf427849423  usr/lib/libIex.so.6.0.0
+e49aa64bc96a601a88f0de0f5bbd2c94  usr/lib/libHalf.so.6.0.0
+1837ed9f57698ec8c87570f7d586c9cf  usr/lib/libIlmThread.so.6.0.0
+c19d269335bbb9f664edfbadb827ef77  usr/share/doc/libilmbase6/changelog.gz
+66aed51e6c8b5a7a1b9cca80bf899e08  usr/share/doc/libilmbase6/changelog.Debian.gz
+700a86d95e3ea07908dce05de60e69e6  usr/share/doc/libilmbase6/copyright
+e6a2d9074413620b2e679491667a5743  usr/share/doc/libilmbase6/NEWS.gz
+f68247cecb1795110dcbb0d74f0b03cd  usr/share/doc/libilmbase6/README
+e551d87ef60232c390e47c6625fdaf20  usr/share/doc/libilmbase6/AUTHORS
+fdc9ce7ea0c2033f8287983e06ed906a  usr/share/lintian/overrides/libilmbase6

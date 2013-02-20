@@ -1,0 +1,1263 @@
+Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?rev=135
+Name: GPL Ghostscript
+Maintainer: Artifex Software, Inc <bug-gs@ghostscript.com>
+Source: http://ghostscript.com/releases/
+
+X-Stripped: ./Resource/CMap/90ms-RKSJ-UCS2,
+	./Resource/CMap/90pv-RKSJ-UCS2,
+	./Resource/CMap/90pv-RKSJ-UCS2C,
+	./Resource/CMap/Adobe-CNS1-B5pc,
+	./Resource/CMap/Adobe-CNS1-ETenms-B5,
+	./Resource/CMap/Adobe-CNS1-H-CID,
+	./Resource/CMap/Adobe-CNS1-H-Host,
+	./Resource/CMap/Adobe-CNS1-H-Mac,
+	./Resource/CMap/Adobe-CNS1-UCS2,
+	./Resource/CMap/Adobe-GB1-GBK-EUC,
+	./Resource/CMap/Adobe-GB1-GBpc-EUC,
+	./Resource/CMap/Adobe-GB1-H-CID,
+	./Resource/CMap/Adobe-GB1-H-Host,
+	./Resource/CMap/Adobe-GB1-H-Mac,
+	./Resource/CMap/Adobe-GB1-UCS2,
+	./Resource/CMap/Adobe-Japan1-90ms-RKSJ,
+	./Resource/CMap/Adobe-Japan1-90pv-RKSJ,
+	./Resource/CMap/Adobe-Japan1-H-CID,
+	./Resource/CMap/Adobe-Japan1-H-Host,
+	./Resource/CMap/Adobe-Japan1-H-Mac,
+	./Resource/CMap/Adobe-Japan1-PS-H,
+	./Resource/CMap/Adobe-Japan1-PS-V,
+	./Resource/CMap/Adobe-Japan1-UCS2,
+	./Resource/CMap/Adobe-Korea1-H-CID,
+	./Resource/CMap/Adobe-Korea1-H-Host,
+	./Resource/CMap/Adobe-Korea1-H-Mac,
+	./Resource/CMap/Adobe-Korea1-KSCms-UHC,
+	./Resource/CMap/Adobe-Korea1-KSCpc-EUC,
+	./Resource/CMap/Adobe-Korea1-UCS2,
+	./Resource/CMap/B5pc-UCS2,
+	./Resource/CMap/B5pc-UCS2C,
+	./Resource/CMap/CNS01-RKSJ-H,
+	./Resource/CMap/CNS02-RKSJ-H,
+	./Resource/CMap/CNS03-RKSJ-H,
+	./Resource/CMap/CNS04-RKSJ-H,
+	./Resource/CMap/CNS05-RKSJ-H,
+	./Resource/CMap/CNS06-RKSJ-H,
+	./Resource/CMap/CNS07-RKSJ-H,
+	./Resource/CMap/CNS15-RKSJ-H,
+	./Resource/CMap/ETen-B5-UCS2,
+	./Resource/CMap/GB-RKSJ-H,
+	./Resource/CMap/GBK-EUC-UCS2,
+	./Resource/CMap/GBT-RKSJ-H,
+	./Resource/CMap/GBpc-EUC-UCS2,
+	./Resource/CMap/GBpc-EUC-UCS2C,
+	./Resource/CMap/HK-RKSJ-H,
+	./Resource/CMap/Hojo-RKSJ-H,
+	./Resource/CMap/KSC-RKSJ-H,
+	./Resource/CMap/KSC2-RKSJ-H,
+	./Resource/CMap/KSCms-UHC-UCS2,
+	./Resource/CMap/KSCpc-EUC-UCS2,
+	./Resource/CMap/KSCpc-EUC-UCS2C,
+	./Resource/CMap/TCVN-RKSJ-H,
+	./Resource/CMap/UCS2-90ms-RKSJ,
+	./Resource/CMap/UCS2-90pv-RKSJ,
+	./Resource/CMap/UCS2-B5pc,
+	./Resource/CMap/UCS2-ETen-B5,
+	./Resource/CMap/UCS2-GBK-EUC,
+	./Resource/CMap/UCS2-GBpc-EUC,
+	./Resource/CMap/UCS2-KSCms-UHC,
+	./Resource/CMap/UCS2-KSCpc-EUC
+X-Stripped: ./Resource/CMap/Identity-UTF16-H,
+	./Resource/CMap/Identity-UTF16-V,
+X-Stripped-Reason: non-DFSG license limited to verbatim copying
+
+X-Stripped: ./jasper,
+	./jbig2dec,
+	./libpng,
+	./zlib
+X-Stripped-Reason: unused sources complicating reliable build process
+
+Files: ./base/*, ./psi/*, ./lib/*, ./toolbin/*, ./examples/*, ./doc/*, ./man/*,
+	./Resource/ColorSpace/*,
+	./Resource/Decoding/*,
+	./Resource/Encoding/*,
+	./Resource/Init/*,
+	./Resource/SubstCID/*
+Copyright: 1990-2010, Artifex Software, Inc.
+License: other-GPL-3+-Artifex
+
+Files: ./Resource/CMap/*
+Copyright: 1990-2009, Adobe Systems Incorporated
+License: other-Adobe
+
+Files: ./tiff/*
+Copyright: 1988-1997, Sam Leffler
+	1991-1997, Silicon Graphics, Inc
+License: other-SGI
+
+Files: ./jpeg/*
+Copyright: 1991-1998, Thomas G. Lane
+License: other-JPEG
+
+Files: ./jasper/*
+Copyright: 1999-2000, Image Power, Inc
+	1999-2000, The University of British Columbia
+	2001-2003, Michael David Adams
+License: other-JasPer
+
+Files: ./contrib/pcl3/*
+Copyright: 1996-2001 Martin Lottermoser
+License: other-LGPL-2.1-pcl3
+
+Files: ./expat/*
+Copyright: 1998-2003, Clark Cooper
+	1998-2003, Thai Open Source Software Center Ltd
+	2001-2007, Expat maintainers
+License: Expat
+
+Files: ./ijs/*
+Copyright: 2001-2007, Artifex Software, Inc
+License: Expat
+
+Files: ./icclib/*
+Copyright: 1997-2002, Graeme W. Gill
+License: other-icclib
+
+Files: ./imdi/*
+Copyright: 2000-2004, Graeme W. Gill
+License: other-GPL-2-IMDI
+
+Files: ./examples/cjk/*
+Copyright: 2001, Taiji Yamada <taiji@aihara.co.jp>
+	2001, gs-cjk project
+License: other-GPL-3+-Artifex
+
+Files: ./doc/figures/*
+Copyright: 1987-2007, 2009, Adobe Systems, Inc.
+License: UNKNOWN
+
+Files: ./Resource/Font/*
+Copyright: 1997, 1999, (URW)++ Design & Development
+	2001-2002, Valek Filippov
+License: other-GPL-unknown-URW with font exception
+
+Files: ./tiff/*Makefile.am,
+	./tiff/*Makefile.vc,
+	./tiff/test/*
+Copyright: 2002-2005, 2007, Andrey Kiselev <dron@ak4719.spb.edu>
+License: other-SGI
+
+Files: ./tiff/*Makefile.in
+Copyright: 1994-2009, Free Software Foundation, Inc.
+	2004, 2007, Andrey Kiselev <dron@ak4719.spb.edu>
+License: other-GAP-FSF-notice and other-SGI
+
+Files: ./contrib/lips4/*
+License: other-GPL-unknown-LIPS
+
+Files: ./jasper/src/appl/jasper_sdl.c
+Copyright: 2004-2005, Artifex Software, Inc.
+License: other-GPL-3+-Artifex
+
+Files: ./Resource/Encoding/Wingdings,
+	./Resource/Init/FCOfontmap-PCLPS2,
+	./Resource/Init/gs_agl.ps,
+	./Resource/Init/gs_btokn.ps,
+	./Resource/Init/gs_cff.ps,
+	./Resource/Init/gs_ciddc.ps,
+	./Resource/Init/gs_cidfn.ps,
+	./Resource/Init/gs_cmap.ps,
+	./Resource/Init/gs_cspace.ps,
+	./Resource/Init/gs_css_e.ps,
+	./Resource/Init/gs_dbt_e.ps,
+	./Resource/Init/gs_diskf.ps,
+	./Resource/Init/gs_diskn.ps,
+	./Resource/Init/gs_dpnxt.ps,
+	./Resource/Init/gs_dps1.ps,
+	./Resource/Init/gs_dps2.ps,
+	./Resource/Init/gs_dps.ps,
+	./Resource/Init/gs_epsf.ps,
+	./Resource/Init/gs_frsd.ps,
+	./Resource/Init/gs_icc.ps,
+	./Resource/Init/gs_il1_e.ps,
+	./Resource/Init/gs_l2img.ps,
+	./Resource/Init/gs_lev2.ps,
+	./Resource/Init/gs_ll3.ps,
+	./Resource/Init/gs_mex_e.ps,
+	./Resource/Init/gs_mgl_e.ps,
+	./Resource/Init/gs_mro_e.ps,
+	./Resource/Init/gs_pdf_e.ps,
+	./Resource/Init/gs_pdfwr.ps,
+	./Resource/Init/gs_res.ps,
+	./Resource/Init/gs_setpd.ps,
+	./Resource/Init/gs_statd.ps,
+	./Resource/Init/gs_std_e.ps,
+	./Resource/Init/gs_sym_e.ps,
+	./Resource/Init/gs_trap.ps,
+	./Resource/Init/gs_typ32.ps,
+	./Resource/Init/gs_typ42.ps,
+	./Resource/Init/gs_type1.ps,
+	./Resource/Init/gs_wan_e.ps,
+	./Resource/Init/pdf_draw.ps,
+	./Resource/Init/pdf_font.ps,
+	./Resource/Init/pdf_main.ps,
+	./Resource/Init/pdf_ops.ps,
+	./Resource/SubstCID/CNS1-WMode,
+	./Resource/SubstCID/GB1-WMode,
+	./Resource/SubstCID/Japan1-WMode,
+	./Resource/SubstCID/Korea1-WMode,
+	./base/gdevimdi.c,
+	./contrib/gdevlx7.c,
+	./contrib/gdevmd2k.c,
+	./contrib/japanese/dmp_init.ps,
+	./contrib/japanese/dviprlib.c,
+	./contrib/japanese/dviprlib.h,
+	./contrib/japanese/gdev10v.c,
+	./contrib/japanese/gdevalps.c,
+	./contrib/japanese/gdevdmpr.c,
+	./contrib/japanese/gdevfmlbp.c,
+	./contrib/japanese/gdevfmpr.c,
+	./contrib/japanese/gdevj100.c,
+	./contrib/japanese/gdevmag.c,
+	./contrib/japanese/gdevmjc.c,
+	./contrib/japanese/gdevml6.c,
+	./contrib/japanese/gdevnpdl.c,
+	./contrib/japanese/gdevp201.c,
+	./doc/Helpers.htm,
+	./doc/News.htm,
+	./examples/waterfal.ps,
+	./lib/align.ps,
+	./lib/bdftops.ps,
+	./lib/caption.ps,
+	./lib/cid2code.ps,
+	./lib/docie.ps,
+	./lib/dumphint.ps,
+	./lib/FCOfontmap-PCLPS3,
+	./lib/FCOfontmap-PS3,
+	./lib/font2c.ps,
+	./lib/font2pcl.ps,
+	./lib/Fontmap.ATB,
+	./lib/Fontmap.Ult,
+	./lib/gs_ce_e.ps,
+	./lib/gs_cmdl.ps,
+	./lib/gs_fform.ps,
+	./lib/gs_il2_e.ps,
+	./lib/gs_kanji.ps,
+	./lib/gs_ksb_e.ps,
+	./lib/gs_lgo_e.ps,
+	./lib/gs_lgx_e.ps,
+	./lib/gslp.ps,
+	./lib/gsnup.ps,
+	./lib/gs_pfile.ps,
+	./lib/gs_rdlin.ps,
+	./lib/gs_wl1_e.ps,
+	./lib/gs_wl2_e.ps,
+	./lib/gs_wl5_e.ps,
+	./lib/image-qa.ps,
+	./lib/impath.ps,
+	./lib/jispaper.ps,
+	./lib/lines.ps,
+	./lib/markhint.ps,
+	./lib/markpath.ps,
+	./lib/packfile.ps,
+	./lib/pcharstr.ps,
+	./lib/pdfopt.ps,
+	./lib/pdfwrite.ps,
+	./lib/pfbtopfa.ps,
+	./lib/ppath.ps,
+	./lib/pphs.ps,
+	./lib/ps2ai.ps,
+	./lib/ps2ascii.ps,
+	./lib/ps2epsi.ps,
+	./lib/rollconv.ps,
+	./lib/showchar.ps,
+	./lib/stcinfo.ps,
+	./lib/stcolor.ps,
+	./lib/traceimg.ps,
+	./lib/traceop.ps,
+	./lib/type1enc.ps,
+	./lib/type1ops.ps,
+	./lib/uninfo.ps,
+	./lib/unprot.ps,
+	./lib/viewcmyk.ps,
+	./lib/viewgif.ps,
+	./lib/viewmiff.ps,
+	./lib/viewpbm.ps,
+	./lib/viewpcx.ps,
+	./lib/viewps2a.ps,
+	./lib/wftopfa.ps,
+	./lib/winmaps.ps,
+	./lib/wrfont.ps,
+	./lib/zeroline.ps,
+	./toolbin/errlist.tcl,
+	./toolbin/GenSubstCID.ps,
+	./toolbin/headers.tcl,
+	./toolbin/leaks.tcl,
+	./toolbin/memory.py,
+	./toolbin/ocheck.py,
+	./toolbin/pdfinflt.ps,
+	./toolbin/precheck.tcl,
+	./toolbin/suite.tcl,
+	./toolbin/tmake.tcl
+Copyright: 1989-2002, 2006-2007, Aladdin Enterprises, Menlo Park, CA
+License: other-GPL-3+-Artifex
+
+Files: ./tiff/SConstruct,
+	./tiff/configure.ac,
+	./tiff/libtiff/SConstruct,
+	./tiff/man/TIFFDataWidth.3tiff,
+	./tiff/man/TIFFcolor.3tiff,
+	./tiff/man/bmp2tiff.1,
+	./tiff/nmake.opt,
+	./tiff/tools/bmp2tiff.c,
+	./tiff/tools/raw2tiff.c
+Copyright: 2002-2005, 2007, Andrey Kiselev <dron@ak4719.spb.edu>
+License: other-SGI
+
+Files: ./contrib/japanese/gdevespg.c,
+	./contrib/japanese/gdevrpdl.c,
+Copyright: 1998-2000, Norihito Ohmori
+License: other-GPL-unknown-LIPS
+
+Files: config.guess,
+	config.sub,
+	ltconfig,
+	missing
+Copyright: 1991-2006, Free Software Foundation, Inc.
+License: GPL-2+ or other-sa-Autoconf
+
+Files: aclocal.m4,
+	libtool.m4
+Copyright: 1996-2005, Free Software Foundation, Inc.
+License: other-GAP-FSF-notice
+
+Files: ltmain.sh
+Copyright: 1996-2008, Free Software Foundation, Inc
+License: GPL-2+ or other-sa-Libtool
+
+Files: ./contrib/japanese/doc/gdevdmpr.txt,
+	./tiff/tools/tiffmedian.c,
+	./toolbin/localcluster/dashboard.html
+Copyright: 1997, 1999, (URW)++ Design & Development
+	2001-2002, Valek Filippov
+License: other-GPL-unknown-URW with font exception
+
+Files: ./tiff/contrib/dbs/tiff-bi.c,
+	./tiff/contrib/dbs/tiff-grayscale.c,
+	./tiff/contrib/dbs/tiff-palette.c,
+	./tiff/contrib/dbs/tiff-rgb.c,
+	./tiff/contrib/dbs/xtiff/xtiff.c
+Copyright: 1990-1991, Digital Equipment Corporation, Maynard, Massachusetts
+License: other-DIGITAL
+
+Files: configure
+Copyright: 1992-2008, Free Software Foundation, Inc
+License: other-GAP-FSF
+
+Files: ./tiff/m4/lt*
+Copyright: 2004-2005, 2007-2008, Free Software Foundation, Inc
+License: other-GAP-FSF-notice
+
+Files: ./cups/pstopxl,
+	./cups/pstopxl.in,
+	./cups/pstoraster,
+	./cups/pstoraster.in
+Copyright: 2001-2005, Easy Software Products
+License: GPL-2+
+
+Files: ./tiff/contrib/addtiffo/addtiffo.c,
+	./tiff/contrib/addtiffo/tif_overview.c,
+	./tiff/contrib/addtiffo/tif_ovrcache.c,
+	./tiff/contrib/addtiffo/tif_ovrcache.h
+Copyright: 1999-2000, Frank Warmerdam
+License: Expat
+
+Files: ./cups/gdevcups.c,
+	./cups/pstoraster.convs,
+	./cups/pxlcolor.ppd,
+	./cups/pxlmono.ppd
+Copyright: 1993-2006, Easy Software Products
+	1997-2005, Easy Software Products
+License: other-GPL-unknown-CUPS
+
+Files: ./tiff/port/getopt.c,
+	./tiff/port/lfind.c,
+	./tiff/port/strcasecmp.c
+	./tiff/port/strtoul.c
+Copyright: 1987, 1989-1990, 1993-1994, The Regents of the University of California.
+License: BSD
+
+Files: ./contrib/gdevbjc[_a].[ch],
+Copyright: 1989, 2000 Aladdin Enterprises, Menlo Park, CA
+	2000-2002, Gergely Szász <szaszg@hu.inter.net>
+License: GPL-2+
+
+Files: ./tiff/libtiff/mkg3states.c,
+	./tiff/libtiff/tif_fax3.[ch]
+Copyright: 1990, 1995 Frank D. Cringle
+	1990-1997, Sam Leffler
+	1991-1997, Silicon Graphics, Inc
+License: other-SGI
+
+Files: ./base/md5.c,
+	./base/md5.h,
+	./base/md5main.c
+Copyright: 1999-2007, Artifex Software, Inc
+License: ZLIB
+
+Files: ./base/aes.c,
+	./base/aes.h
+Copyright: 2006-2007, Christophe Devine
+License: BSD
+
+Files: ./contrib/opvp/opvp_0_2_0.h,
+	./contrib/opvp/opvp_common.h
+Copyright: 2003-2004, AXE, Inc.
+License: Expat
+
+Files: install-sh
+Copyright: 1994, X Consortium
+License: Expat and other-X
+
+Files: ./doc/Hershey.htm
+Copyright: Public Domain
+License: none-PD-Hershey
+ This file, unlike the rest of Ghostscript, consists entirely of information
+ copied from public sources.  It therefore is not covered by the
+ Ghostscript copyright or license: it is in the public domain.
+
+Files: ./tiff/contrib/pds/tif_pdsdirread.c,
+	./tiff/contrib/pds/tif_pdsdirwrite.c
+Copyright: 1996, USAF Phillips Laboratory
+	1988-1996, Sam Leffler
+	1991-1996, Silicon Graphics, Inc
+License: other-SGI
+
+Files: ./tiff/port/libport.h,
+	./tiff/tools/tiffset.c
+Copyright: 2000, 2009, Frank Warmerdam
+License: other-SGI
+
+Files: ./contrib/gdevln03.c,
+	./contrib/gdevxes.c
+Copyright: 1991-1994, Free Software Foundation, Inc.
+License: other-GPL-3+-Artifex
+
+Files: ./jpeg/rdcolmap.c,
+	./jpeg/rdppm.c
+Copyright: 1988, Jef Poskanzer
+	1991-1997, Thomas G. Lane
+License: other-JPEG
+
+Files: ./contrib/japanese/doc/gs261j.euc,
+	./contrib/japanese/doc/gs261j.txt
+Copyright: 1991-1994, Norio Katayama
+License: UNKNOWN
+ FIXME
+
+Files: ./tiff/man/tiff2pdf.1,
+	./tiff/tools/tiff2pdf.c
+Copyright: 2003, Ross Finlayson
+License: UNKNOWN
+ FIXME
+
+Files: ./tiff/contrib/ras/ras2tif.c,
+	./tiff/contrib/ras/tif2ras.c
+Copyright: 1990, Sun Microsystems, Inc
+License: UNKNOWN
+ FIXME
+
+Files: ./base/ConvertUTF.c,
+	./base/ConvertUTF.h
+Copyright: 2001-2004, Unicode, Inc
+License: UNKNOWN
+ FIXME
+
+Files: ./lib/cbjc600.ppd,
+	./lib/cbjc800.ppd
+Copyright: 1995, Yves Arrouye for AFPL Ghostscript with Level 2 PS
+License: UNKNOWN
+ FIXME
+
+Files: ./contrib/japanese/doc/djgpp.txt,
+	./contrib/japanese/doc/gdevmag.txt
+Copyright: 1993-1994, 淺山和典 ■
+	1994, 淺山和典 ■
+License: UNKNOWN
+ FIXME
+
+Files: ./jpeg/ansi2knr.c
+Copyright: 1988, Richard M. Stallman
+	1989, Aladdin Enterprises, Menlo Park, CA
+License: GPL
+ FIXME
+
+Files: ./cups/cups.mak
+Copyright: 2001-2005, Easy Software Products
+	2007, Artifex Software, Inc
+License: GPL
+ FIXME
+
+Files: ./contrib/gdevlx50.c
+Copyright: 1999, Aladdin Enterprises, Menlo Park, CA
+	1999-2000, Peter B. West <pbwest@netscape.net>
+License: GPL-2+ or AFPL
+
+Files: ./contrib/gdevdj9.c
+Copyright: 1999, Aladdin Enterprises, Menlo Park, CA
+	2000, Rene Harsch <rene@harsch.net>
+License: GPL-2+ or AFPL
+
+Files: ./contrib/gdevcd8.c
+Copyright: 1996-1998, Uli Wortmann <uliw@erdw.ethz.ch>
+	1999, Aladdin Enterprises, Menlo Park, CA
+	2000, Hewlett-Packard Company
+License: GPL-2+ or AFPL
+
+Files: ./contrib/japanese/doc/cdj880.txt
+Copyright: 1999, <Matthew J. Gelhaus mgelhaus@proaxis.com>
+License: GPL-2+
+ FIXME
+
+Files: ./contrib/japanese/doc/gdevcd8.txt
+Copyright: 1996-1998, <Uli Wortmann uli@bonk.ethz.ch>
+License: GPL-2+
+ FIXME
+
+Files: ./contrib/opvp/gdevopvp.c
+Copyright: 2003-2004, AXE, Inc.
+License: GPL-2+
+
+Files: ./contrib/gdevlx32.c
+Copyright: 2000, Daniel Gordini (dgordin@tin.it)
+License: GPL-2+
+ FIXME
+
+Files: ./lib/afmdiff.awk
+Copyright: 2000, Nelson H. F. Beebe ###
+License: GPL-2+
+ FIXME
+
+Files: ./contrib/gomni.c
+Copyright: 1998-2000, Aladdin Enterprises, Menlo Park, CA
+	2000, International Business Machines Corp.
+License: LGPL-2.1+
+ FIXME
+
+Files: ./contrib/defs.h
+Copyright: 2000, International Business Machines Corp.
+License: LGPL-2.1+
+ FIXME
+
+Files: ./cups/pdftoraster.c
+Copyright: 2008, BBR Inc.
+	2008, Till Kamppeter
+License: Expat
+
+Files: ./cups/pdftoraster.convs
+Copyright: 2008, Till Kamppeter
+License: Expat
+
+Files: ./icclib/icc9809.h
+Copyright: 1994-1998, SunSoft, Inc
+License: Expat and other-SunSoft
+
+Files: ./doc/figures/Overview.eps
+Copyright: 1997-2006, Adobe Systems Incorporated.
+License: UNKNOWN
+ FIXME
+
+Files: ./lib/ghostpdf.ppd
+Copyright: 2004-2006, Ghostgum Software Pty Ltd
+License: UNKNOWN
+ FIXME
+
+Files: ./examples/chess.ps
+Copyright: 1989, Adobe Systems Inc.
+License: UNKNOWN
+ FIXME
+
+Files: ./ijs/ijs_spec.ps
+Copyright: 2001, Radical Eye Software
+License: UNKNOWN
+ FIXME
+
+Files: ./psi/gsdll.c
+Copyright: 1994-2000, Ghostgum Software Pty Ltd. */
+	2001-2006, Artifex Software, Inc
+License: UNKNOWN
+ FIXME
+
+Files: ./tiff/libtiff/tif_ojpeg.c
+Copyright: AWare Systems <http://www.awaresystems.be/>
+	Joris Van Damme <info@awaresystems.be>
+License: UNKNOWN
+ FIXME
+
+Files: ./contrib/opvp/opvp.h
+Copyright: 2003-2006, AXE Inc
+	2006, Canon Inc
+	2006, Free Standards Group
+	2006, Fuji Xerox Printing Systems Co., Ltd
+License: other-Open
+
+Files: ./doc/figures/XPS_Render.eps
+Copyright: 1987-2007, 2009, Adobe Systems, Inc.
+License: UNKNOWN
+ FIXME
+
+Files: ./doc/figures/Ghost.eps
+Copyright: 1987-2007, Adobe Systems, Inc.
+License: UNKNOWN
+ FIXME
+
+Files: ./base/bench.c
+	./base/gspmdrv.rc
+	./base/scfdgen.c
+	./toolbin/encs2c.ps
+Copyright: 1990-1993, 1995, 1998-1999, 2002, Aladdin Enterprises, Menlo Park, CA
+	2001-2006, Artifex Software, Inc
+License: other-GPL-3+-Artifex
+
+Files: ./lib/prfont.ps
+Copyright: 1986, Eric Gisin
+	1992-1996, 1999-2000, Aladdin Enterprises, Menlo Park, CA
+	2000, Artifex Software, Inc.
+License: other-GPL-3+-Artifex
+
+Files: ./tiff/configure.com
+Copyright: 2007, Alexey Chupahin
+License: other-SGI
+
+Files: ./tiff/tools/tiffgt.c
+Copyright: 1988-1997, Sam Leffler
+	1991-1997, Silicon Graphics, Inc
+	2003, Andrey Kiselev <dron@ak4719.spb.edu>
+License: other-SGI
+
+Files: ./base/ttfsfnt.h
+Copyright: 1991, Apple Computer, Inc
+	2001-2006, Artifex Software, Inc
+License: UNKNOWN
+ FIXME
+
+Files: ./Resource/Init/pdf_sec.ps
+Copyright: 1996-1998, Geoffrey Keating
+	2001-2008, Artifex Software, Inc
+License: UNKNOWN
+ FIXME
+
+Files: ./base/gdevijs.c
+Copyright: 2001-2006, Artifex Software, Inc
+	2003-2004, Hewlett-Packard Development Company, LP
+License: UNKNOWN
+ FIXME
+
+Files: ./base/gdevbjc.h
+Copyright: 1995-1996, Yves Arrouye <yves.arrouye@usa.net>
+	2001-2006, Artifex Software, Inc
+License: UNKNOWN
+ FIXME
+
+Files: ./Resource/Init/gs_init.ps
+Copyright: 1989, Berthold K.P. Horn
+	1989-2009, Artifex Software, Inc.
+License: UNKNOWN
+ FIXME
+
+Files: ./tiff/contrib/mfs/mfs_file.c
+Copyright: 1996, BancTec AB
+	1996, Mike Johnson
+License: UNKNOWN
+ FIXME
+
+Files: ./expat/lib/Makefile.MPW
+Copyright: 2002, Daryle Walker
+	2002, Thomas Wegner
+License: UNKNOWN
+ FIXME
+
+Files: ./contrib/eplaser/gdevescv.[ch]
+Copyright: 1999-2000, EPSON SOFTWARE DEVELOPMENT LABORATORY, INC.
+	2000-2006,2009, SEIKO EPSON CORPORATION
+License: UNKNOWN
+ FIXME
+
+Files: ./tiff/libtiff/tif_luv.c
+Copyright: 1997, Greg Ward Larson
+	1997, Silicon Graphics, Inc
+License: UNKNOWN
+ FIXME
+
+Files: ./contrib/gdevop4w.c
+Copyright: 1998, Ivan Schreter
+License: UNKNOWN
+ FIXME
+
+Files: ./jpeg/wrgif.c
+Copyright: 1989, Jef Poskanzer
+	1991-1997, Thomas G. Lane
+License: UNKNOWN
+ FIXME
+
+Files: ./base/gdevifno.c
+Copyright: 1998, Lucent Technologies
+License: UNKNOWN
+ FIXME
+
+Files: ./tiff/libtiff/tif_pixarlog.c
+Copyright: 1996, Pixar
+	1996-1997, Sam Leffler
+License: UNKNOWN
+ FIXME
+
+Files: ./tiff/man/tiffcrop.1
+	./tiff/tools/tiffcrop.c
+Copyright: 1988-1997, Sam Leffler
+	1991-1997, Silicon Graphics, Inc
+	2006-2009, Richard Nolde
+License: UNKNOWN
+ FIXME
+
+Files: ./tiff/libtiff/tif_lzw.c
+Copyright: 1985-1986, The Regents of the University of California
+	1988-1997, Sam Leffler
+	1991-1997, Silicon Graphics, Inc
+License: UNKNOWN
+ FIXME
+
+Files: ./lib/viewjpeg.ps
+Copyright: 1994, Thomas Merz <tm@pdflib.com>
+License: UNKNOWN
+ FIXME
+
+Files: ./base/gdev4693.c
+Copyright: 1992, Washington State University.
+License: UNKNOWN
+ FIXME
+
+Files: ./base/gdevtxtw.c
+Copyright: 2001-2006, artofcode LLC
+License: UNKNOWN
+ FIXME
+
+Files: ./lib/fixmswrd.pl
+Copyright: 1997, Anthony Shipman
+License: zlib/libpng
+ FIXME
+
+Files: ./debian/*
+Copyright: 2004-2009, Masayuki Hatta (mhatta) <mhatta@debian.org>
+	2009-2010, Jonas Smedegaard <dr@jones.dk>
+License: GPL-2+
+
+Files: ./debian/patches/11_gs-cjk_font_glyph_handling_fix.patch
+	./debian/patches/12_gs-cjk_vertical_writing_metrics_fix.patch
+Copyright: 1996-2003, artofcode LLC.
+	2001-2003, gs-cjk project
+	2001-2003, Hideyuki Suzuki
+	2001-2003, Masatake Yamato
+	2001-2003, suzuki toshiya
+	2001-2003, Taiji Yamada
+	2006, Center of the International Cooperation for Computerization
+License: GPL-2+
+
+Files: ./debian/update-gsfontmap
+Copyright: 2010, Kenshi Muto <kmuto@debian.org>
+License: GPL
+ FIXME
+
+License: other-GPL-3+-Artifex
+ GPL Ghostscript is free software; you can redistribute it and/or
+ modify it under the terms the GNU General Public License as 
+ published by the Free Software Foundation, either version 3
+ of the License, or (at your option) any later version.
+ .
+ GPL Ghostscript is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ General Public License for more details.
+ .
+ On Debian systems, the complete text of the GNU General Public License
+ (GPL) version 3 can be found in '/usr/share/common-licenses/GPL-3'.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+License: other-GPL-unknown-LIPS
+ This software is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY.  No author or distributor accepts responsibility
+ to anyone for the consequences of using it or for whether it serves any
+ particular purpose or works at all, unless he says so in writing.  Refer
+ to the GNU General Public License for full details.
+ .
+ Everyone is granted permission to copy, modify and redistribute
+ this software, but only under the conditions described in the GNU
+ General Public License.  A copy of this license is supposed to have been
+ given to you along with this software so you can know your rights and
+ responsibilities.  It should be in a file named COPYING.  Among other
+ things, the copyright notice and this notice must be preserved on all
+ copies.
+ .
+ The referenced file COPYING does not exist in folders belonging to same
+ code.
+ .
+ On Debian systems, the complete text of the GNU General Public License
+ (GPL) current version can be found in '/usr/share/common-licenses/GPL'.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+License: GPL-2+
+ This program may be distributed and/or modified under the terms of
+ the GNU General Public License as published by the Free Software
+ Foundation (the "GPL"); either version 2 of the GPL, or (at your option)
+ any later version.
+ .
+ When distributed under the terms of the GPL, this program is distributed
+ in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
+ even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+ PURPOSE.  See the GPL for more details.
+ .
+ Some files instead include the following alternate text:
+ .
+ This file is free software; you can redistribute it and/or modify it
+ under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ General Public License for more details.
+ .
+ Some files differ from above by replacing "this file" and/or "this
+ program" with more specific terms, but otherwise identical license and
+ disclaimer.
+ .
+ On Debian systems, the complete text of the GNU General Public License
+ (GPL) version 2 can be found in '/usr/share/common-licenses/GPL-2'.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+License: other-GPL-2-IMDI
+ This material is licenced under the GNU GENERAL PUBLIC LICENCE :-
+ see the Licence.txt file for licencing details.
+ .
+ The referenced file License.txt do not exist, but another, LICENSE,
+ contains version 2 of the GNU General Public License, and assumably
+ only that particular version is permitted.
+ .
+ On Debian systems, the complete text of the GNU General Public License
+ (GPL) version 2 can be found in '/usr/share/common-licenses/GPL-2'.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+License: other-sa-Autoconf
+ As a special exception to the GNU General Public License, if you
+ distribute this file as part of a program that contains a
+ configuration script generated by Autoconf, you may include it under
+ the same distribution terms that you use for the rest of that program.
+
+License: other-GPL-unknown-URW with font exception
+ See the file COPYING (GNU General Public License) for license conditions.
+ As a special exception, permission is granted to include this font
+ program in a Postscript or PDF file that consists of a document that
+ contains text to be displayed or printed using this font, regardless
+ of the conditions or license applying to the document itself.
+ .
+ The referenced file COPYING does not exist in folders belonging to same
+ code.
+ .
+ On Debian systems, the complete text of the GNU General Public License
+ (GPL) current version can be found in '/usr/share/common-licenses/GPL'.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+License: other-GPL-unknown-CUPS
+ These coded instructions, statements, and computer programs are the
+ property of Easy Software Products and are protected by Federal
+ copyright law.  Distribution and use rights are outlined in the file
+ "LICENSE.txt" which should have been included with this file.  If this
+ file is missing or damaged please contact Easy Software Products
+ at:
+ .
+     Attn: CUPS Licensing Information
+     Easy Software Products
+     44141 Airport View Drive, Suite 204
+     Hollywood, Maryland 20636 USA
+ .
+     Voice: (301) 373-9600
+     EMail: cups-info@cups.org
+       WWW: http://www.cups.org/
+ .
+ This code and any derivative of it may be used and distributed
+ freely under the terms of the GNU General Public License when
+ used with GNU Ghostscript or its derivatives.  Use of the code
+ (or any derivative of it) with software other than GNU
+ GhostScript (or its derivatives) is governed by the CUPS license
+ agreement.
+ .
+ The referenced file LICENSE.txt does not exist in folders belonging to
+ same code.
+ .
+ On Debian systems, the complete text of the GNU General Public License
+ (GPL) current version can be found in '/usr/share/common-licenses/GPL'.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+License: other-sa-Libtool
+ As a special exception to the GNU General Public License,
+ if you distribute this file as part of a program or library that
+ is built using GNU Libtool, you may include this file under the
+ same distribution terms that you use for the rest of that program.
+
+License: GPL-2+ or AFPL
+ This program may also be distributed as part of Aladdin Ghostscript,
+ under the terms of the Aladdin Free Public License (the "License").
+ .
+ Every copy of Aladdin Ghostscript must include a copy of the
+ License, normally in a plain ASCII text file named PUBLIC.  The
+ License grants you the right to copy, modify and redistribute
+ Aladdin Ghostscript, but only under certain conditions described in
+ the License.  Among other things, the License requires that the
+ copyright notice and this notice be preserved on all copies.
+ .
+ Upstream source do not contain the referenced PUBLIC file (probably due
+ to Aladdin Ghostscript now distributed as GPL-3+). This should not
+ matter for Debian, as all AFPL-licenced files are dual-licensed as
+ GPL-2+ which is then used in Debian.
+
+License: LGPL-2.1+
+ The GNU C Library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 2.1 of the License, or (at your option) any later version.
+ .
+ The GNU C Library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Lesser General Public License for more details.
+ .
+ On Debian systems, the complete text of the GNU Library General Public
+ License (LGPL) version 2.1 can be found at
+ "/usr/share/common-licenses/LGPL-2.1".
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+License: other-LGPL-2.1-pcl3
+ pcl3 is free software and can be used under the terms of the GNU Lesser General
+ Public License (LGPL), Version 2.1 (February 1999). You can find a copy of the
+ LGPL in the pcl3 distribution, in several software packages distributed by the
+ Free Software Foundation, and at http://www.gnu.org/copyleft/lesser.html.
+ .
+ This implies in particular that you are using pcl3 AT YOUR OWN RISK!
+ .
+ On Debian systems, the complete text of the GNU Lesser General Public
+ License (LGPL) version 2.1 can be found at
+ "/usr/share/common-licenses/LGPL-2.1".
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+License: other-GAP-FSF
+ This file is free software; the Free Software Foundation gives
+ unlimited permission to copy, distribute and modify it.
+ .
+ Some files differ from above by replacing "this file" with more
+ specific term.
+
+License: other-GAP-FSF-notice
+ This file is free software; the Free Software Foundation gives
+ unlimited permission to copy and/or distribute it, with or without
+ modifications, as long as this notice is preserved.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY, to the extent permitted by law; without
+ even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+ PARTICULAR PURPOSE.
+ .
+ Some files differ from above by replacing "this file" and/or "this
+ program" with more specific terms, or by leaving out the disclaimer.
+
+License: other-SGI
+ Permission to use, copy, modify, distribute, and sell this software and 
+ its documentation for any purpose is hereby granted without fee, provided
+ that (i) the above copyright notices and this permission notice appear in
+ all copies of the software and related documentation, and (ii) the names of
+ Sam Leffler and Silicon Graphics may not be used in any advertising or
+ publicity relating to the software without the specific, prior written
+ permission of Sam Leffler and Silicon Graphics.
+ .
+ THE SOFTWARE IS PROVIDED "AS-IS" AND WITHOUT WARRANTY OF ANY KIND, 
+ EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY 
+ WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  
+ .
+ IN NO EVENT SHALL SAM LEFFLER OR SILICON GRAPHICS BE LIABLE FOR
+ ANY SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND,
+ OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+ WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY OF 
+ LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE 
+ OF THIS SOFTWARE.
+
+License: other-Open
+ Permission to use, copy, modify, distribute, and sell this software
+ and its documentation for any purpose is hereby granted without
+ fee, provided that the above copyright notice appear in all copies
+ and that both that copyright notice and this permission notice
+ appear in supporting documentation.
+ .
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT.  IN NO EVENT SHALL THE OPEN GROUP BE LIABLE FOR
+ ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+ CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+License: other-DIGITAL
+ Permission to use, copy, modify, and distribute this software and its
+ documentation for any purpose and without fee is hereby granted,
+ provided that the above copyright notice appear in all copies and that
+ both that copyright notice and this permission notice appear in
+ supporting documentation, and that the name of Digital not be
+ used in advertising or publicity pertaining to distribution of the
+ software without specific, written prior permission.
+ .
+ DIGITAL DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING
+ ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO EVENT SHALL
+ DIGITAL BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR
+ ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+ WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+ ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
+ SOFTWARE.
+
+License: Expat
+ Permission is hereby granted, free of charge, to any person obtaining a
+ copy of this software and associated documentation files (the
+ "Software"), to deal in the Software without restriction, including
+ without limitation the rights to use, copy, modify, merge, publish,
+ distribute, sublicense, and/or sell copies of the Software, and to
+ permit persons to whom the Software is furnished to do so, subject to
+ the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included
+ in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+ OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ .
+ Some files differ from above by replacing "The authors or copyright
+ holders" with more specific term.
+
+License: BSD
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions
+ are met:
+ 1. Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+ 2. Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in the
+    documentation and/or other materials provided with the distribution.
+ 3. Neither the name of the University nor the names of its contributors
+    may be used to endorse or promote products derived from this software
+    without specific prior written permission.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
+ ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE
+ FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+ OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+ LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+ OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ SUCH DAMAGE.
+
+License: other-JPEG
+ The authors make NO WARRANTY or representation, either express or implied,
+ with respect to this software, its quality, accuracy, merchantability, or
+ fitness for a particular purpose.  This software is provided "AS IS", and you,
+ its user, assume the entire risk as to its quality and accuracy.
+ .
+ This software is copyright (C) 1991-1998, Thomas G. Lane.
+ All Rights Reserved except as specified below.
+ .
+ Permission is hereby granted to use, copy, modify, and distribute this
+ software (or portions thereof) for any purpose, without fee, subject to these
+ conditions:
+ (1) If any part of the source code for this software is distributed, then this
+ README file must be included, with this copyright and no-warranty notice
+ unaltered; and any additions, deletions, or changes to the original files
+ must be clearly indicated in accompanying documentation.
+ (2) If only executable code is distributed, then the accompanying
+ documentation must state that "this software is based in part on the work of
+ the Independent JPEG Group".
+ (3) Permission for use of this software is granted only if the user accepts
+ full responsibility for any undesirable consequences; the authors accept
+ NO LIABILITY for damages of any kind.
+ .
+ These conditions apply to any software derived from or based on the IJG code,
+ not just to the unmodified library.  If you use our work, you ought to
+ acknowledge us.
+ .
+ Permission is NOT granted for the use of any IJG author's name or company name
+ in advertising or publicity relating to this software or products derived from
+ it.  This software may be referred to only as "the Independent JPEG Group's
+ software".
+ .
+ We specifically permit and encourage the use of this software as the basis of
+ commercial products, provided that all warranty or liability claims are
+ assumed by the product vendor.
+
+License: other-icclib
+ Permission is hereby granted, to use, copy, modify, distribute,
+ and sell this software and its associated documentation files
+ (the "Software") for any purpose without fee, provided
+ that:
+ .
+ 	1) The above copyright notices and this permission notice
+ 	   accompany all source code copies of the Software and
+ 	   related documentation.
+ and
+ .
+ 	2) If executable code based on the Software only is distributed,
+ 	   then the accompanying documentation must aknowledge that
+ 	   "this software is based in part on the work of Graeme W. Gill".
+ and
+ .
+ 	3) It is accepted that Graeme W. Gill (the "Author") accepts
+ 	   NO LIABILITY for damages of any kind.  The Software is
+ 	   provided without fee by the Author "AS-IS" and without
+ 	   warranty of any kind, express, implied or otherwise,
+ 	   including without limitation, any warranty of merchantability
+ 	   or fitness for a particular purpose.
+ and
+ .
+ 	4) These conditions apply to any software derived from or based
+ 	   on the Software, not just to the unmodified library.
+ and
+ .
+ 	5) Except as contained in this notice, or in the required
+ 	   acknowledgment, the name of the Author, or the name of
+ 	   any organization or company affiliated with the Author
+ 	   may not be used in any advertising or publicity relating
+ 	   to the Software, without the specific, prior written
+ 	   permission of the Author.
+
+License: ZLIB
+ This software is provided 'as-is', without any express or implied
+ warranty.  In no event will the authors be held liable for any damages
+ arising from the use of this software.
+ .
+ Permission is granted to anyone to use this software for any purpose,
+ including commercial applications, and to alter it and redistribute it
+ freely, subject to the following restrictions:
+ .
+ 1. The origin of this software must not be misrepresented; you must not
+    claim that you wrote the original software. If you use this software
+    in a product, an acknowledgment in the product documentation would be
+    appreciated but is not required.
+ 2. Altered source versions must be plainly marked as such, and must not be
+    misrepresented as being the original software.
+ 3. This notice may not be removed or altered from any source distribution.
+
+License: other-X
+ Except as contained in this notice, the name of the X Consortium shall not
+ be used in advertising or otherwise to promote the sale, use or other deal-
+ ings in this Software without prior written authorization from the X Consor-
+ tium.
+
+License: other-SunSoft
+ Except as contained in this notice, the name of SunSoft, Inc. 
+ shall not be used in advertising or otherwise to promote the 
+ sale, use or other dealings in this Software without written 
+ authorization from SunSoft Inc. 
+
+License: other-Adobe
+ Redistribution and use in source and binary forms, with or
+ without modification, are permitted provided that the
+ following conditions are met:
+ .
+ Redistributions of source code must retain the above
+ copyright notice, this list of conditions and the following
+ disclaimer.
+ .
+ Redistributions in binary form must reproduce the above
+ copyright notice, this list of conditions and the following
+ disclaimer in the documentation and/or other materials
+ provided with the distribution. 
+ .
+ Neither the name of Adobe Systems Incorporated nor the names
+ of its contributors may be used to endorse or promote
+ products derived from this software without specific prior
+ written permission. 
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+ CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+ INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR
+ CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+ NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+ OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+License: other-JasPer
+ Permission is hereby granted, free of charge, to any person (the
+ "User") obtaining a copy of this software and associated documentation
+ files (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, and/or sell copies of the Software, and to permit
+ persons to whom the Software is furnished to do so, subject to the
+ following conditions:
+ .
+ 1.  The above copyright notices and this permission notice (which
+ includes the disclaimer below) shall be included in all copies or
+ substantial portions of the Software.
+ .
+ 2.  The name of a copyright holder shall not be used to endorse or
+ promote products derived from the Software without specific prior
+ written permission.
+ .
+ THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS
+ LICENSE.  NO USE OF THE SOFTWARE IS AUTHORIZED HEREUNDER EXCEPT UNDER
+ THIS DISCLAIMER.  THE SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS
+ "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+ PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.  IN NO
+ EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL
+ INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING
+ FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
+ NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION
+ WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.  NO ASSURANCES ARE
+ PROVIDED BY THE COPYRIGHT HOLDERS THAT THE SOFTWARE DOES NOT INFRINGE
+ THE PATENT OR OTHER INTELLECTUAL PROPERTY RIGHTS OF ANY OTHER ENTITY.
+ EACH COPYRIGHT HOLDER DISCLAIMS ANY LIABILITY TO THE USER FOR CLAIMS
+ BROUGHT BY ANY OTHER ENTITY BASED ON INFRINGEMENT OF INTELLECTUAL
+ PROPERTY RIGHTS OR OTHERWISE.  AS A CONDITION TO EXERCISING THE RIGHTS
+ GRANTED HEREUNDER, EACH USER HEREBY ASSUMES SOLE RESPONSIBILITY TO SECURE
+ ANY OTHER INTELLECTUAL PROPERTY RIGHTS NEEDED, IF ANY.  THE SOFTWARE
+ IS NOT FAULT-TOLERANT AND IS NOT INTENDED FOR USE IN MISSION-CRITICAL
+ SYSTEMS, SUCH AS THOSE USED IN THE OPERATION OF NUCLEAR FACILITIES,
+ AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL
+ SYSTEMS, DIRECT LIFE SUPPORT MACHINES, OR WEAPONS SYSTEMS, IN WHICH
+ THE FAILURE OF THE SOFTWARE OR SYSTEM COULD LEAD DIRECTLY TO DEATH,
+ PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE ("HIGH
+ RISK ACTIVITIES").  THE COPYRIGHT HOLDERS SPECIFICALLY DISCLAIM ANY
+ EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.

@@ -1,0 +1,6 @@
+TARGETS = mongodb killprocs bootlogs dbus rsync ssh single rc.local rmnologin stop-bootlogd
+INTERACTIVE =
+single: killprocs bootlogs
+rc.local: mongodb bootlogs dbus rsync ssh
+rmnologin: mongodb bootlogs dbus rsync ssh
+stop-bootlogd: mongodb bootlogs dbus rsync ssh

@@ -1,0 +1,7 @@
+TARGETS = mongodb urandom sendsigs umountnfs.sh networking ifupdown umountroot halt reboot
+sendsigs: mongodb
+umountnfs.sh: sendsigs mongodb
+networking: umountnfs.sh mongodb
+ifupdown: umountnfs.sh mongodb networking
+halt: umountroot
+reboot: umountroot

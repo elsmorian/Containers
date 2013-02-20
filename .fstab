@@ -1,0 +1,45 @@
+#<file system>    <mount point>   <type>   <options>   <dump>  <pass>
+none  /lockers/containers//dev/pts   devpts   defaults   0  0
+none  /lockers/containers//proc      proc     defaults   0  0
+none  /lockers/containers//sys       sysfs    defaults   0  0
+none  /lockers/containers//dev/shm   tmpfs    defaults   0  0
+#<file system>    <mount point>   <type>   <options>   <dump>  <pass>
+none  /lockers/containers//dev/pts   devpts   defaults   0  0
+none  /lockers/containers//proc      proc     defaults   0  0
+none  /lockers/containers//sys       sysfs    defaults   0  0
+none  /lockers/containers//dev/shm   tmpfs    defaults   0  0
+#<file system>    <mount point>   <type>   <options>   <dump>  <pass>
+none  /lockers/containers//dev/pts   devpts   defaults   0  0
+none  /lockers/containers//proc      proc     defaults   0  0
+none  /lockers/containers//sys       sysfs    defaults   0  0
+none  /lockers/containers//dev/shm   tmpfs    defaults   0  0
+#<file system>    <mount point>   <type>   <options>   <dump>  <pass>
+none  /lockers/containers//dev/pts   devpts   defaults   0  0
+none  /lockers/containers//proc      proc     defaults   0  0
+none  /lockers/containers//sys       sysfs    defaults   0  0
+none  /lockers/containers//dev/shm   tmpfs    defaults   0  0
+#<file system>    <mount point>   <type>   <options>   <dump>  <pass>
+none  /lockers/containers//dev/pts   devpts   defaults   0  0
+none  /lockers/containers//proc      proc     defaults   0  0
+none  /lockers/containers//sys       sysfs    defaults   0  0
+none  /lockers/containers//dev/shm   tmpfs    defaults   0  0
+#<file system>    <mount point>   <type>   <options>   <dump>  <pass>
+none  /lockers/containers//dev/pts   devpts   defaults   0  0
+none  /lockers/containers//proc      proc     defaults   0  0
+none  /lockers/containers//sys       sysfs    defaults   0  0
+none  /lockers/containers//dev/shm   tmpfs    defaults   0  0
+#<file system>    <mount point>   <type>   <options>   <dump>  <pass>
+none  /lockers/containers//dev/pts   devpts   defaults   0  0
+none  /lockers/containers//proc      proc     defaults   0  0
+none  /lockers/containers//sys       sysfs    defaults   0  0
+none  /lockers/containers//dev/shm   tmpfs    defaults   0  0
+#<file system>    <mount point>   <type>   <options>   <dump>  <pass>
+none  /lockers/containers//dev/pts   devpts   defaults   0  0
+none  /lockers/containers//proc      proc     defaults   0  0
+none  /lockers/containers//sys       sysfs    defaults   0  0
+none  /lockers/containers//dev/shm   tmpfs    defaults   0  0
+#<file system>    <mount point>   <type>   <options>   <dump>  <pass>
+none  /lockers/containers//dev/pts   devpts   defaults   0  0
+none  /lockers/containers//proc      proc     defaults   0  0
+none  /lockers/containers//sys       sysfs    defaults   0  0
+none  /lockers/containers//dev/shm   tmpfs    defaults   0  0

@@ -1,0 +1,4 @@
+none /lockers/containers/newContainer/newContainer/dev/pts devpts defaults 0 0
+none /lockers/containers/newContainer/newContainer/proc    proc   defaults 0 0
+none /lockers/containers/newContainer/newContainer/sys     sysfs  defaults 0 0
+none /lockers/containers/newContainer/newContainer/dev/shm tmpfs  defaults 0 0

@@ -1,0 +1,436 @@
+Package: libapr1
+Architecture: i386
+Auto-Installed: 1
+
+Package: libaprutil1
+Architecture: i386
+Auto-Installed: 1
+
+Package: libgtk2.0-common
+Architecture: i386
+Auto-Installed: 1
+
+Package: libatk1.0-0
+Architecture: i386
+Auto-Installed: 1
+
+Package: libfont-freetype-perl
+Architecture: i386
+Auto-Installed: 1
+
+Package: ttf-dejavu-core
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxfixes3
+Architecture: i386
+Auto-Installed: 1
+
+Package: shared-mime-info
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxcb-render-util0
+Architecture: i386
+Auto-Installed: 1
+
+Package: liblcms1
+Architecture: i386
+Auto-Installed: 1
+
+Package: libdjvulibre21
+Architecture: i386
+Auto-Installed: 1
+
+Package: libwmf0.2-7
+Architecture: i386
+Auto-Installed: 1
+
+Package: libilmbase6
+Architecture: i386
+Auto-Installed: 1
+
+Package: libpixman-1-0
+Architecture: i386
+Auto-Installed: 1
+
+Package: libx11-data
+Architecture: i386
+Auto-Installed: 1
+
+Package: libavahi-common-data
+Architecture: i386
+Auto-Installed: 1
+
+Package: libdbus-1-3
+Architecture: i386
+Auto-Installed: 1
+
+Package: libcdt4
+Architecture: i386
+Auto-Installed: 1
+
+Package: libpcre3
+Architecture: i386
+Auto-Installed: 1
+
+Package: libcairo2
+Architecture: i386
+Auto-Installed: 1
+
+Package: libfontconfig1
+Architecture: i386
+Auto-Installed: 1
+
+Package: fontconfig-config
+Architecture: i386
+Auto-Installed: 1
+
+Package: libexiv2-9
+Architecture: i386
+Auto-Installed: 1
+
+Package: xml-core
+Architecture: i386
+Auto-Installed: 1
+
+Package: libpango1.0-common
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxcb-render0
+Architecture: i386
+Auto-Installed: 1
+
+Package: libgd2-noxpm
+Architecture: i386
+Auto-Installed: 1
+
+Package: libpaper-utils
+Architecture: i386
+Auto-Installed: 1
+
+Package: hicolor-icon-theme
+Architecture: i386
+Auto-Installed: 1
+
+Package: liblqr-1-0
+Architecture: i386
+Auto-Installed: 1
+
+Package: libdatrie1
+Architecture: i386
+Auto-Installed: 1
+
+Package: fontconfig
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxfont1
+Architecture: i386
+Auto-Installed: 1
+
+Package: dbus
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxcb1
+Architecture: i386
+Auto-Installed: 1
+
+Package: ufraw-batch
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxau6
+Architecture: i386
+Auto-Installed: 1
+
+Package: libpango1.0-0
+Architecture: i386
+Auto-Installed: 1
+
+Package: libcups2
+Architecture: i386
+Auto-Installed: 1
+
+Package: libgtk2.0-bin
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxft2
+Architecture: i386
+Auto-Installed: 1
+
+Package: libgsf-1-common
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxcomposite1
+Architecture: i386
+Auto-Installed: 1
+
+Package: libcroco3
+Architecture: i386
+Auto-Installed: 1
+
+Package: libjbig2dec0
+Architecture: i386
+Auto-Installed: 1
+
+Package: libopenexr6
+Architecture: i386
+Auto-Installed: 1
+
+Package: libice6
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxdmcp6
+Architecture: i386
+Auto-Installed: 1
+
+Package: libthai0
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxml2
+Architecture: i386
+Auto-Installed: 1
+
+Package: file
+Architecture: i386
+Auto-Installed: 1
+
+Package: libglib2.0-data
+Architecture: i386
+Auto-Installed: 1
+
+Package: libatk1.0-data
+Architecture: i386
+Auto-Installed: 1
+
+Package: netpbm
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxrender1
+Architecture: i386
+Auto-Installed: 1
+
+Package: libmagickcore3
+Architecture: i386
+Auto-Installed: 1
+
+Package: sgml-base
+Architecture: i386
+Auto-Installed: 1
+
+Package: ucf
+Architecture: i386
+Auto-Installed: 1
+
+Package: libgvc5
+Architecture: i386
+Auto-Installed: 1
+
+Package: libgs8
+Architecture: i386
+Auto-Installed: 1
+
+Package: libtiff4
+Architecture: i386
+Auto-Installed: 1
+
+Package: libfontenc1
+Architecture: i386
+Auto-Installed: 1
+
+Package: libjasper1
+Architecture: i386
+Auto-Installed: 1
+
+Package: libpng12-0
+Architecture: i386
+Auto-Installed: 1
+
+Package: libjpeg62
+Architecture: i386
+Auto-Installed: 1
+
+Package: xfonts-utils
+Architecture: i386
+Auto-Installed: 1
+
+Package: libmagickwand3
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxdot4
+Architecture: i386
+Auto-Installed: 1
+
+Package: libfreetype6
+Architecture: i386
+Auto-Installed: 1
+
+Package: libthai-data
+Architecture: i386
+Auto-Installed: 1
+
+Package: libavahi-client3
+Architecture: i386
+Auto-Installed: 1
+
+Package: libmagickcore3-extra
+Architecture: i386
+Auto-Installed: 1
+
+Package: libglib2.0-0
+Architecture: i386
+Auto-Installed: 1
+
+Package: libcupsimage2
+Architecture: i386
+Auto-Installed: 1
+
+Package: ghostscript
+Architecture: i386
+Auto-Installed: 1
+
+Package: librsvg2-2
+Architecture: i386
+Auto-Installed: 1
+
+Package: x11-common
+Architecture: i386
+Auto-Installed: 1
+
+Package: libnetpbm10
+Architecture: i386
+Auto-Installed: 1
+
+Package: libx11-6
+Architecture: i386
+Auto-Installed: 1
+
+Package: exiv2
+Architecture: i386
+Auto-Installed: 1
+
+Package: libsm6
+Architecture: i386
+Auto-Installed: 1
+
+Package: libgraph4
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxdamage1
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxi6
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxcursor1
+Architecture: i386
+Auto-Installed: 1
+
+Package: xfonts-encodings
+Architecture: i386
+Auto-Installed: 1
+
+Package: libavahi-common3
+Architecture: i386
+Auto-Installed: 1
+
+Package: libdjvulibre-text
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxt6
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxinerama1
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxext6
+Architecture: i386
+Auto-Installed: 1
+
+Package: defoma
+Architecture: i386
+Auto-Installed: 1
+
+Package: libxrandr2
+Architecture: i386
+Auto-Installed: 1
+
+Package: libpathplan4
+Architecture: i386
+Auto-Installed: 1
+
+Package: x-ttcidfont-conf
+Architecture: i386
+Auto-Installed: 1
+
+Package: libgtk2.0-0
+Architecture: i386
+Auto-Installed: 1
+
+Package: libgsf-1-114
+Architecture: i386
+Auto-Installed: 1
+
+Package: gsfonts
+Architecture: i386
+Auto-Installed: 1
+
+Package: libpaper1
+Architecture: i386
+Auto-Installed: 1
+
+Package: libltdl7
+Architecture: i386
+Auto-Installed: 1
+
+Package: libmagic1
+Architecture: i386
+Auto-Installed: 1
+
+Package: python2.6-minimal
+Architecture: i386
+Auto-Installed: 1
+
+Package: mime-support
+Architecture: i386
+Auto-Installed: 1
+
+Package: libsqlite3-0
+Architecture: i386
+Auto-Installed: 1
+
+Package: python2.6
+Architecture: i386
+Auto-Installed: 1
+
+Package: python-minimal
+Architecture: i386
+Auto-Installed: 1
+
+Package: python-support
+Architecture: i386
+Auto-Installed: 1
+
+Package: python-setuptools
+Architecture: i386
+Auto-Installed: 0
+
+Package: python-pkg-resources
+Architecture: i386
+Auto-Installed: 1
+

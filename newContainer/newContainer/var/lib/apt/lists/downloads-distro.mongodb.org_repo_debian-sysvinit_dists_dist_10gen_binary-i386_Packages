@@ -1,0 +1,99 @@
+Package: mongodb-10gen
+Version: 2.0.6
+Architecture: i386
+Maintainer: Richard Kreuter <richard@10gen.com>
+Installed-Size: 83636
+Depends: libc6 (>= 2.3.2), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+Conflicts: mongodb, mongodb-10gen-unstable, mongodb-nightly, mongodb-stable, mongodb-unstable
+Filename: dists/dist/10gen/binary-i386/mongodb-10gen_2.0.6_i386.deb
+Size: 35269696
+MD5sum: 356d72f943f9ec0352c8e302912f33bc
+SHA1: 41b1314369bdeaea9fbba8967998ac314f1608f6
+SHA256: 7d8fb6ce08dbf58712e37ce7b1113b15c157583217bcc79ada750f8e74e5df4d
+Section: devel
+Priority: optional
+Homepage: http://www.mongodb.org
+Description: An object/document-oriented database
+ MongoDB is a high-performance, open source, schema-free
+ document-oriented  data store that's easy to deploy, manage
+ and use. It's network accessible, written in C++ and offers
+ the following features :
+ .
+    * Collection oriented storage - easy storage of object-
+      style data
+    * Full index support, including on inner objects
+    * Query profiling
+    * Replication and fail-over support
+    * Efficient storage of binary data including large
+      objects (e.g. videos)
+    * Auto-sharding for cloud-level scalability (Q209)
+ .
+ High performance, scalability, and reasonable depth of
+ functionality are the goals for the project.
+
+Package: mongodb-10gen-unstable
+Version: 2.1.0
+Architecture: i386
+Maintainer: Richard Kreuter <richard@10gen.com>
+Installed-Size: 80392
+Depends: libc6 (>= 2.3.2), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+Conflicts: mongodb, mongodb-10gen, mongodb-nightly, mongodb-stable, mongodb-unstable
+Filename: dists/dist/10gen/binary-i386/mongodb-10gen-unstable_2.1.0_i386.deb
+Size: 33570184
+MD5sum: 78e8dc57f45c6066857f275b0e93bd6e
+SHA1: 9edcb7eb25c2be0e93cf2586854fef03aec8e764
+SHA256: e13c156d795b20c16a220051dbec7d77533ba9c5cad977844093738fb823c527
+Section: devel
+Priority: optional
+Homepage: http://www.mongodb.org
+Description: An object/document-oriented database
+ MongoDB is a high-performance, open source, schema-free
+ document-oriented  data store that's easy to deploy, manage
+ and use. It's network accessible, written in C++ and offers
+ the following features :
+ .
+    * Collection oriented storage - easy storage of object-
+      style data
+    * Full index support, including on inner objects
+    * Query profiling
+    * Replication and fail-over support
+    * Efficient storage of binary data including large
+      objects (e.g. videos)
+    * Auto-sharding for cloud-level scalability (Q209)
+ .
+ High performance, scalability, and reasonable depth of
+ functionality are the goals for the project.
+
+Package: mongodb18-10gen
+Version: 1.8.5
+Architecture: i386
+Maintainer: Richard Kreuter <richard@10gen.com>
+Installed-Size: 67136
+Depends: libc6 (>= 2.3.2), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+Conflicts: mongodb, mongodb-10gen, mongodb-10gen-unstable, mongodb-nightly, mongodb-stable, mongodb-unstable
+Filename: dists/dist/10gen/binary-i386/mongodb18-10gen_1.8.5_i386.deb
+Size: 27010436
+MD5sum: 74719077252fe26d1096a6cce1cd2fa8
+SHA1: ce8481a9bb929ee0799a7dbc28fbae8787538f7d
+SHA256: 71758d50680822b8193010a434862e762a9e4b967e4e23251d946973f482ba79
+Section: devel
+Priority: optional
+Homepage: http://www.mongodb.org
+Description: An object/document-oriented database
+ MongoDB is a high-performance, open source, schema-free
+ document-oriented  data store that's easy to deploy, manage
+ and use. It's network accessible, written in C++ and offers
+ the following features :
+ .
+    * Collection oriented storage - easy storage of object-
+      style data
+    * Full index support, including on inner objects
+    * Query profiling
+    * Replication and fail-over support
+    * Efficient storage of binary data including large
+      objects (e.g. videos)
+    * Auto-sharding for cloud-level scalability (Q209)
+ .
+ High performance, scalability, and reasonable depth of
+ functionality are the goals for the project.
+
